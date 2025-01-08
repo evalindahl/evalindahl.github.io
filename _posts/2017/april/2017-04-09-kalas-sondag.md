@@ -6,7 +6,7 @@ title:  "kalas söndag"
 date:   2017-04-09 17:16:06 +0100
 thumbnail-img: /assets/img/2017/april/8-3/image_58ea468bddf2b312fa743a4b.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 På morgonen kl 5 när jag var på jobbet så kom mamma och pappa förbi och hälsade på innan de skulle bila iväg till Norrköping. De skulle även låna min bil för den drar mycket mindre än deras så då körde jag min bil till jobbet så de kunde ta bilen direkt därifrån. Det var kul att hinna träffa dom en snabbis iallafall:D 

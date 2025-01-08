@@ -6,7 +6,7 @@ title:  "Finaste uppvaknadet"
 date:   2012-08-02 15:17:56 +0100
 thumbnail-img: /assets/img/2012/august/2012/dsc04905_207634210.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Hejn skulle jag egentligen ha skrivit igår men jag gör det nu istället! 

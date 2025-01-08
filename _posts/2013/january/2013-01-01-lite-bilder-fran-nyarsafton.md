@@ -6,7 +6,7 @@ title:  "Lite bilder från nyårsafton"
 date:   2013-01-01 21:53:26 +0100
 thumbnail-img: /assets/img/2013/january/2013/img_3776_50e34bebe087c36f858d2e98.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Här kommer ett litet utrval av alla bilder som togs på nyårsafton!

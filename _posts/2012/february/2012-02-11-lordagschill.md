@@ -6,7 +6,7 @@ title:  "Lördagschill"
 date:   2012-02-11 13:52:24 +0100
 thumbnail-img: /assets/img/2012/february/2012/meme_188839512.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Hallådär! Idag är det en förfärligt fin dag med nollgradigt väder och det är lördag. Om det inte hade varit för att jag inte har skjuts och att jag hade bestämt mig att sitta och uggla hela dagen så hade jag varit på valls just nu. Backman ringde just och jag fick höra hur fint före det var.. kul..

@@ -6,7 +6,7 @@ title:  "En grej till bara"
 date:   2012-02-01 22:47:55 +0100
 thumbnail-img: /assets/img/2012/february/2012/253495_1940348160875_1607573188_31842938_8348695_n_187361622.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Ni kanske undrar hur det går för min träning?:o Tänkte iallafall fylla in hur en vanlig träningsvecka ser ut !

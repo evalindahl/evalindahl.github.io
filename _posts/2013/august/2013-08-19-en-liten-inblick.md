@@ -6,7 +6,7 @@ title:  "En liten inblick"
 date:   2013-08-19 15:32:14 +0100
 thumbnail-img: /assets/img/2013/august/6-3/img_9019_52121d7fddf2b32fd33a70c2.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Jag förstår att det är många som är nyfikna på att se hur lägenheten ser ut så därför har jag sprungit runt med systemkameran och tagit lite snabba bilder. Det är inte riktigt klart än då vi har saker som ska skruvas upp och skruvas in. Men ni ser ju iallafall hur det ser ut!

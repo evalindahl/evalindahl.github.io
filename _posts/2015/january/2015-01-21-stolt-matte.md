@@ -6,7 +6,7 @@ title:  "stolt matte"
 date:   2015-01-21 22:14:00 +0100
 thumbnail-img: /assets/img/2015/january/8-3/img_20150121_123451_54c00f599606ee57d9a8b0dd.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Jag, Elin och Albin var på stan en sväng också idag och hade hundarna med oss i bilarna. Sen var jag tvungen att fara på personalmöte och eftersom jag hade med mig Penny så bestämde jag mig för att hon skulle få va på mötet också istället för att sitta i bilen och frysa.  Mötet varade i över två timmar och Penny var hur duktig som helst. Efter att hon hälsat på alla kollegor så la hon sig ner och sov under bordet under nästan hela mötet. När hon inte sov satte hon sig nära nån av kollegorna vid bordet och ville mysa vilket kollegorna tyckte var härligt. När jag och Penny skulle fara så sa kollegan Klas att han inte ville att Penny skulle fara för hon var så mysig, vilket var kul att höra som matte. 

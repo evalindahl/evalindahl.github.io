@@ -6,7 +6,7 @@ title:  "fortsättning..."
 date:   2014-10-09 15:12:41 +0100
 thumbnail-img: /assets/img/2014/october/6-3/20141009_150158_543689792a6b2213611f6bdd.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Hann publicera inlägget lite fort så här kommer fortsättningen:

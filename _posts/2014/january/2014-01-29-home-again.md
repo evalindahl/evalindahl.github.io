@@ -6,7 +6,7 @@ title:  "home again"
 date:   2014-01-29 21:45:04 +0100
 thumbnail-img: /assets/img/2014/january/6-3/20140129_214329_52e96810e087c3041ba7faa3.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 På tisdagskvällen så hade jag tänkt umgås med Lisa men det blev it så, så då hängde jag med mormor hela kvällen istället. Det var kul det med för jag och mormor har så roligt tillsammans. Vi åt gott kvällsfika och såg tv samtidigt som vi pratade om allt möjligt. 

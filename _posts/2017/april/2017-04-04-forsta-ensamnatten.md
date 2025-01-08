@@ -6,7 +6,7 @@ title:  "Första ensamnatten"
 date:   2017-04-04 21:40:37 +0100
 thumbnail-img: /assets/img/2017/april/8-3/image_58e3f4feddf2b312fefca4c5.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
  

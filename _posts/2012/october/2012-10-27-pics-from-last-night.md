@@ -6,7 +6,7 @@ title:  "Pics from last night"
 date:   2012-10-27 16:58:18 +0100
 thumbnail-img: /assets/img/2012/october/2012/img_2152_508bf637e087c3793df48c78.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 

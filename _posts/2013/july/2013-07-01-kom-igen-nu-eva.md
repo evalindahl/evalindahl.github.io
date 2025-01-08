@@ -6,7 +6,7 @@ title:  "Kom igen nu, Eva"
 date:   2013-07-01 19:03:42 +0100
 thumbnail-img: /assets/img/2013/july/6-3/inte_nojd_51d1b4e39606ee2559681fd4.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 " Jag skulle kunna dö för att få ha en sådan där kropp". Det är en tanke som ofta ploppar upp för mig när jag ser en kropp som är helt perfekt. Det sjuka är ju att jag kan göra något som är så mycket bekvämare än att dö för att få en sådan kropp. Det enda jag behöver göra är att äta hälsosamt och att röra på mig, det låter väl inte så himla svårt? NÄ för det är inte så svårt! Vill man ha en fin kropp så mycket att man skulle kunna dö för den så borde man väl kunna hålla fingrarna i styr och äta hälsosamt och träna. 

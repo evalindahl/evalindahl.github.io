@@ -6,7 +6,7 @@ title:  "måndag"
 date:   2015-06-29 14:45:00 +0100
 thumbnail-img: /assets/img/2015/june/8-3/temporary-image1435581700619_55913d062a6b22426cf92d6c.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
  

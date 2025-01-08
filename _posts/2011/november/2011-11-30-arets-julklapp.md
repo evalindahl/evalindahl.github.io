@@ -6,7 +6,7 @@ title:  "Årets julklapp"
 date:   2011-11-30 23:03:12 +0100
 thumbnail-img: /assets/img/2011/november/2011/316705_315664641795929_100000571875840_1178907_423096070_n_177262506.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 

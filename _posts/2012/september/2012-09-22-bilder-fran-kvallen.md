@@ -6,7 +6,7 @@ title:  "Bilder från kvällen"
 date:   2012-09-22 23:36:38 +0100
 thumbnail-img: /assets/img/2012/september/2012/img_0310_505e2ef79606ee7750e9127a.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 

@@ -6,7 +6,7 @@ title:  "Hissa och dissa"
 date:   2013-12-04 21:55:16 +0100
 thumbnail-img: /assets/img/2013/december/6-3/evahissdiss_527a2866e087c3162ead502b.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
  

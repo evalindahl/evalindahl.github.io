@@ -6,7 +6,7 @@ title:  "Hela födelsedagen"
 date:   2012-08-02 15:29:36 +0100
 thumbnail-img: /assets/img/2012/august/2012/dsc04918_207634254.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Resten av födelsedagen gick i precis samma anda som uppvakningen, helt underbart alltså! Jobbade hela dagen på glasshuset men sen direkt efter jobbet så var det kalajs. Större delen av släkten och det var kul att det var så många som kom. Mycket tårta blev det och mmmmm så gott det var. Det är ju nästan det bästa med kalas ;) Sen fick jag så himla många fina presenter! Allt jag fick var något jag behövde eller hade önskat mig så det var AWESOME!  

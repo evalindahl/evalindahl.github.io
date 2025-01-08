@@ -6,7 +6,7 @@ title:  "Loppisdag"
 date:   2012-07-21 23:57:04 +0100
 thumbnail-img: /assets/img/2012/july/2012/img_3791_207561323.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 För första gången i sommar så var jag ledig under dagen på en lördag och då passade jag på att besöka loppisen i badhusparken! Har längtat att fara dit och få göra några fynd så det var himla mysigt att gå där. Lisa joinade mig lite senare också. Efter loppisen så for vi iväg till stan och käkade panini, mummaa!

@@ -6,7 +6,7 @@ title:  "avbryta fredriks presentationer"
 date:   2017-03-14 08:15:04 +0100
 thumbnail-img: /assets/img/2017/march/8-3/image_58c7948c9606ee5fe068accb.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
  

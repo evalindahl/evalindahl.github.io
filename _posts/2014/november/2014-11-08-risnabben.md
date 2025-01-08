@@ -6,7 +6,7 @@ title:  "Risnabben"
 date:   2014-11-08 16:28:02 +0100
 thumbnail-img: /assets/img/2014/november/6-3/aaa_545e34a7e087c359704f025f.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Efter att jag hade varit på veterinären med penny så for vi direkt till Risnabben. Jag var ledig så då tänkte jag att jag skulle passa på att fara dit i några dagar. Då fick jag även hjälp av brorsan att kolla till min bil för den växlar inte som den ska. Så jag har kollat på deeet, umgåtts med familjen, fikat, ätit gott, promenerat med Penny i skogen och hängt med Annika och Lilly. Det var härligt att få vara hemma ett tag och umgås med familjen :D

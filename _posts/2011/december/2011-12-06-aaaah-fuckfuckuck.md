@@ -6,7 +6,7 @@ title:  "ÅÅÅÅH FUCKFUCKUCK!"
 date:   2011-12-06 18:45:26 +0100
 thumbnail-img: /assets/img/2011/december/2011/img_1364_178070046.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 På grund av den här lilla jäveln så missade jag mitt step-pass idag. AAAH är så förbannad! Är dock jävligt tur att jag hittade den tillslut för annars hade min cykel förblivit låst, eftersom det inte finns någon reserv nyckel.(gammal cykel)

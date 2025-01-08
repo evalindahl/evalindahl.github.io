@@ -6,7 +6,7 @@ title:  "lilla stumpan"
 date:   2016-02-19 16:52:40 +0100
 thumbnail-img: /assets/img/2016/february/8-3/img_7358_56c7398eddf2b32ebff45dbc.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 För några dagar sen så tog jag med mig kameran på en av alla prommisar jag gjort i veckan. Det var strålande sol och 0-gradigt så det var ju fantastiskt väder. Det var dock lite svårt att fota Penny i så pass ljust väder men här har ni iallafall lite bilder som jag tog:D

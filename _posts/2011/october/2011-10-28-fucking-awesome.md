@@ -6,7 +6,7 @@ title:  "Fucking awesome"
 date:   2011-10-28 16:42:25 +0100
 thumbnail-img: /assets/img/2011/october/2011/dsc01146_172448803.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Måste bara säga att den här helgen kommer bli så 

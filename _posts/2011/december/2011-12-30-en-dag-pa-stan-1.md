@@ -6,7 +6,7 @@ title:  "En dag på stan"
 date:   2011-12-30 19:12:12 +0100
 thumbnail-img: /assets/img/2011/december/2011/dsc03462_181651363.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Hela dagen har spenderats med Matilda på stan där jag försökte hitta mig något att ha på mig på nyår. Men det var inte stort utbud av nyårskläder på stan alltså :o så det fick bli ett guldigt linne som jag ska visa inom kort. 

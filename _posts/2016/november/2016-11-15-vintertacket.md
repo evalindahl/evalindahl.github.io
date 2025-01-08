@@ -6,7 +6,7 @@ title:  "vintertäcket"
 date:   2016-11-15 21:14:15 +0100
 thumbnail-img: /assets/img/2016/november/8-3/img_9855_582b6af29606ee22fc5acb00.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

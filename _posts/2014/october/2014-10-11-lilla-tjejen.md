@@ -6,7 +6,7 @@ title:  "lilla tjejen"
 date:   2014-10-11 09:04:33 +0100
 thumbnail-img: /assets/img/2014/october/6-3/back_5438d159e087c36774706e31.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Det var sjukt häftigt att få se Annikas barn för första gången för det känns så otroligt att hon faktiskt är här. Man har ju vetat att Annika har varit gravid och så men att få se barnet blev som en aha upplevelse, det var ju ett barn där inne!:D Det känns även väldigt kul att det blev en tjej för på nåt sätt så känns det som att det är ännu lättare att få en bra kontakt med barnet när det blir äldre. För jag vill ju ha en bra relation med henne så hon lätt kan prata med mig om allt möjligt. Precis som jag har haft med min moster, det har alltid varit lätt att prata med henne. Vi får bara hoppas att Annikas barn inte tycker att hennes moster är allt för virrig i pannan utan att hon  ändå tycker att jag är cool och rolig. 

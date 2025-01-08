@@ -6,7 +6,7 @@ title:  "träningsmotivation"
 date:   2016-10-21 19:36:07 +0100
 thumbnail-img: /assets/img/2016/october/8-3/image_57e2d69b88e59d8ff3d5fdb0.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

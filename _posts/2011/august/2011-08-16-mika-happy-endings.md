@@ -6,7 +6,7 @@ title:  "Mika - Happy endings"
 date:   2011-08-16 18:22:16 +0100
 thumbnail-img: /assets/img/2011/august/2011/dsc01181_162011916.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Den låten har nämnts av en viss Matilda Wiklund och jag har inte upptäckt hur fin den är förän nu. På tal om Matilda så fodras det planer som verkar väldigt lovande :D

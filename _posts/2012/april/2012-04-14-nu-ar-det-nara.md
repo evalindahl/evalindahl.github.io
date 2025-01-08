@@ -6,7 +6,7 @@ title:  "Nu är det nära!"
 date:   2012-04-14 10:17:30 +0100
 thumbnail-img: /assets/img/2012/april/2012/pic_198342030.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Åh nu är det bara 2 timmar kvar tills vi ska hämta hem våran lilla babybuuhuuu! Vi håller på att längta sönder så vi far nog iväg till Luleå lite tidigare så tiden går fortare ;) 

@@ -6,7 +6,7 @@ title:  "sociala lördag"
 date:   2016-02-15 22:07:08 +0100
 thumbnail-img: /assets/img/2016/february/8-3/2016-02-15-2149_56c239d0e087c330b094e202.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Denna helg blev en riktig Skellefteåhelg då vi för en gångs skull inte skulle köra iväg nånstans och det kändes otroligt härligt. JAg jobbade till midnatt på fredagen så då blev det inte så mycket roligt gjort men däremot på lördagen så hade jag en härlig och social dag. Jag hade ju en otroligt osocial vecka då jag jobbade eftermiddag så då kändes det riktigt kul att äntligen få umgås med kära vänner. På dagen hängde jag med Elin och Linda på agilitytävling och det var riktigt underhållande. Vi tog med oss voffsingarna så de fick miljöträna lite och det var riktigt värdefullt. Nu när jag satt och observerade agilitytävlingarna så blev jag faktiskt sugen på att testa agility med lilla tjohalia. Men först blire rallylydnad!

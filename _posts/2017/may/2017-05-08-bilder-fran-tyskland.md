@@ -6,7 +6,7 @@ title:  "Bilder från tyskland"
 date:   2017-05-08 20:39:10 +0100
 thumbnail-img: /assets/img/2017/may/8-3/img_0453_5910b3fbe087c34d1b1a3691.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Här har ni lite bilder som jag tog med systemkameran när jag var i Tyskland:D

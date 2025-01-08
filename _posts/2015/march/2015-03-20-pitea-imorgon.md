@@ -6,7 +6,7 @@ title:  "Piteå imorgon"
 date:   2015-03-20 21:12:16 +0100
 thumbnail-img: /assets/img/2015/march/8-3/wp_20130907_007_550c77b2ddf2b350d9196133.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
  

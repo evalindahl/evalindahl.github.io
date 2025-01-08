@@ -6,7 +6,7 @@ title:  "flygplatsoutfit"
 date:   2017-04-23 18:04:46 +0100
 thumbnail-img: /assets/img/2017/april/8-3/image_58fccb052a6b22895d11375f.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
  

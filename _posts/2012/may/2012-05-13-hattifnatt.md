@@ -6,7 +6,7 @@ title:  "Hattifnatt"
 date:   2012-05-13 21:27:43 +0100
 thumbnail-img: /assets/img/2012/may/2012/big-girls-don-t-cry-music-videos-300897_430_250_202460516.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Ända sedan jag såg Fergies musikvideo till Big girls don't cry så har jag alltid velat ha en hatt! Och precis en sådan som hon har. Och det är ju ett tag sedan sen den låten var poppis så ni kan tänka er hur länge jag letat. Och fortfarande letar. Hittade ju som sagt en på kupan som jag är lite kär i men inte till 100%. Men jag ska rocka den medan jag letar efter den perfekta ;)

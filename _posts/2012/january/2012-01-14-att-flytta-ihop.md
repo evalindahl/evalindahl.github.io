@@ -6,7 +6,7 @@ title:  "att flytta ihop"
 date:   2012-01-14 23:45:51 +0100
 thumbnail-img: /assets/img/2012/january/2012/picture0428_184460115.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 " Men jag diskade ju för fan förra gången nu är det din tur!"

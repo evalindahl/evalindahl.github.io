@@ -6,7 +6,7 @@ title:  "Bilder från skoter-vm"
 date:   2014-03-12 09:24:38 +0100
 thumbnail-img: /assets/img/2014/march/6-3/img_1395_5320194ae087c334d7a20a3c.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 

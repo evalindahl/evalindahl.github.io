@@ -6,7 +6,7 @@ title:  "Önskelista"
 date:   2016-12-05 07:32:15 +0100
 thumbnail-img: /assets/img/2016/december/8-3/image_584509a19606ee60899a0c1d.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Nu är det ju verkligen dags att börja handla alla julklappar som ens nära och kära ska få på julafton. Jag ska fara imorgon/idag så fort jag vaknar och börja handla och jag har faktiskt knåpat ihop en hel del idéer om vad folk ska få för nånting, man har ju mycket tid att fundera på sånt på natten. 

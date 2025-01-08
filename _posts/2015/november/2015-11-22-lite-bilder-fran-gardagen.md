@@ -6,7 +6,7 @@ title:  "Lite bilder från gårdagen"
 date:   2015-11-22 20:38:00 +0100
 thumbnail-img: /assets/img/2015/november/8-3/aaa_56519ad3e087c347c4a014ca.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
  

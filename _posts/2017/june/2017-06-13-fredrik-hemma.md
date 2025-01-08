@@ -6,7 +6,7 @@ title:  "Fredrik hemma"
 date:   2017-06-13 20:31:23 +0100
 thumbnail-img: /assets/img/2017/june/8-3/image_593ad4f2e087c303acd7ee4e.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
  Sen jag skrev sist så har ju Fredrik hunnit komma hem. Jag och Penny hämtade honom från flygplatsen och det blev en fin återföreningsstund även om Penny var mer intresserad av mina godisar jag hade i handen än Fredrik just då hehe. Vi hade en mysig kväll tillsammans innan jag var tvungen att fara och jobba då jag hade jobbvecka den veckan. Han gjorde klart det sista i skolan under onsdagen och på torsdag eller fredagen så var det avslutningsceremoni på campus som jag for och tittade på. Är så stolt över Fredrik som klarade skolan så bra:D 

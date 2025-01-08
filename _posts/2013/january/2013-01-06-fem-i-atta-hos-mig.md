@@ -6,7 +6,7 @@ title:  "&quot;fem i åtta hos mig&quot;"
 date:   2013-01-06 15:16:26 +0100
 thumbnail-img: /assets/img/2013/january/2013/p1050013_50e98694ddf2b3418bf54cfc.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Efter hundvaktningen så for vi direkt till annelund för 3 rätters middag hos Lisa och Emil med Markus, Lisa och Emil. Det är väldigt sällan jag och Fredrik blir bjuden på sån lyx så vi njöt hela kvällen lång! Förrätten var en otroligt god smörgåsaktig sak som innehöll lök, kräftstjärtar, creme frèche, ägg och ostbågesmul ovanpå och säkert massa annat men jag kommer inte ihåg vad det var. Som huvudrätt så blev det en het kycklinggryta med grönsaker och ris. Den var helt perfekt stark, lite varm bara men jag tror man var för ivrig för att låta den kallna på gaffeln innan man stoppade den i munnen. Och till efterrätt fick vi en sorts bakelseaktig sak med digestivebotten,kola, grädde och daim ovanpå. Precis som allt annat så var det jättegott! 

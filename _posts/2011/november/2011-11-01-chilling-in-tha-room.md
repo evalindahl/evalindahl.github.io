@@ -6,7 +6,7 @@ title:  "chilling in tha room"
 date:   2011-11-01 18:57:17 +0100
 thumbnail-img: /assets/img/2011/november/2011/img_0996_173069276.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 

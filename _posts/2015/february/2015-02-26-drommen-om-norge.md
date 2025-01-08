@@ -6,7 +6,7 @@ title:  "drömmen om Norge"
 date:   2015-02-26 14:28:27 +0100
 thumbnail-img: /assets/img/2015/february/8-3/snorre20ask_54ef19a7ddf2b3369ecd5683.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 

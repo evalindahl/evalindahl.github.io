@@ -6,7 +6,7 @@ title:  "ändring i planerna"
 date:   2014-04-14 11:48:07 +0100
 thumbnail-img: /assets/img/2014/april/6-3/20140412_130236_534bae6f9606ee568fa4265d.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Efter mötet med uppfödarna så skulle de reflektera och sen komma med ett svar om vi verkade var lovande hundägare. Jag var så nervös inför att få veta om vi skulle få en valp eller inte. För jag ville ju så gärna ha en från deras kull.

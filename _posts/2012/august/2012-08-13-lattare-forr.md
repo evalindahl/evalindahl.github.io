@@ -6,7 +6,7 @@ title:  "Lättare förr"
 date:   2012-08-13 19:32:08 +0100
 thumbnail-img: /assets/img/2012/august/2012/23466_1231780885_207708645.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 När jag gick i sexan/7:an så bestämde jag mig för att gå ner i vikt, och det gjorde jag, 

@@ -6,7 +6,7 @@ title:  "Beslutsångest"
 date:   2012-02-04 13:35:17 +0100
 thumbnail-img: /assets/img/2012/february/2012/he_187715039.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Ååh snart närmar det sig! Och vet fortfarande inte vilken hårfärg jag ska ta :o Sitter och kikar lite på hårfärger just nu och det är fan inte lätt att hitta någon som skulle passa mig. Dels för att jag är född brunette och dels för jag inte kan se mig själv i nåt annat :o Men jag tycker det är dags för förändring!

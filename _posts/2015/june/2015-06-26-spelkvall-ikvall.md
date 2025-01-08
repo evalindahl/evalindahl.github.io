@@ -6,7 +6,7 @@ title:  "Spelkväll ikväll"
 date:   2015-06-26 14:10:15 +0100
 thumbnail-img: /assets/img/2015/june/6-3/img_8303_51c70d9d9606ee60bf86042e.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Idag är jag ledig så jag tänkte att jag ska då inte bara vara hemma och uggla! Så då har jag dragit ihop en spelkväll ikväll hos Lisa vilket var sjukt längesen känns det som. Det känns så kul att vi ska ha det igen iallafall! Vi ska vara Annika, Lisa, André, Emil, Fredrik och kanske Markus vilket blir ett perfekt gäng för detta evenemang. Så jag ska leta lite i min och Fredriks sällskapsspelslåda och se om jag hittar nå roliga spel:D Jag längtar så tills jag och Fredrik flyttar till hus för då har vi bestämt att vi ska en hel bokhylla fylld med sällskapsspel i vardagsrummet för det lär bli en hel del spelkvällar hos oss då ;D

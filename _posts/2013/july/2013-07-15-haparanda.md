@@ -6,7 +6,7 @@ title:  "Haparanda"
 date:   2013-07-15 16:44:04 +0100
 thumbnail-img: /assets/img/2013/july/6-3/img_20130715_141801_51e40a4a9606ee0f90b63b30.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Jag var iväg på en liten campingutflykt till Haparanda. Det var nämligen en motorträff där så därför passade det perfekt att fara dit för att både leva campingliv och se på fina amerikanare.Jag kommer knappt hinna umgås med min familj i sommar då jag jobbar de flesta helger och ojämt under veckorna. Så jag blev så himla glad när jag visste att jag kunde följa med till haparanda.  Jag hade det väldigt trevligt där borta för vi var både på ikea, åt god mat, besökte kukkolaforsen, cruisade och mös i förtältet. Det var en perfekt liten utflykt för nu hann jag äntligen umgås med min familj:D 

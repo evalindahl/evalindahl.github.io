@@ -6,7 +6,7 @@ title:  "hiss och diss"
 date:   2015-03-18 19:48:05 +0100
 thumbnail-img: /assets/img/2015/march/6-3/20140424_130148_535a99ce9606ee3d90902a79.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Jag hissar: 

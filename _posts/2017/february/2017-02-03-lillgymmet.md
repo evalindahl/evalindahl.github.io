@@ -6,7 +6,7 @@ title:  "Lillgymmet"
 date:   2017-02-03 08:19:04 +0100
 thumbnail-img: /assets/img/2017/february/8-3/image_58942db1ddf2b3348d60c7ac.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Jag har verkligen underskattat gymmet som vi har på innergården här och tänkt att man som it riktigt kan få till ett bra pass där inne. Men grejen är att det finns ju hur mycket som helst som man kan göra där inne! Med draganordningen som finns där så kan man träna hela kroppen med olika sortens övningar och motstånd. Sen har vi hantlar upp till 10 kg och en crosstrainer som man då kan köra sin Cardio på. 

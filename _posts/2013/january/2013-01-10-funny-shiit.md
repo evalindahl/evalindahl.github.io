@@ -6,7 +6,7 @@ title:  "funny shiit"
 date:   2013-01-10 18:19:00 +0100
 thumbnail-img: /assets/img/2013/january/2013/crtnr_50eef84bddf2b31bf1e45913.gif
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 

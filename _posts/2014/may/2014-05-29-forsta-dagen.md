@@ -6,7 +6,7 @@ title:  "första dagen"
 date:   2014-05-29 12:33:00 +0100
 thumbnail-img: /assets/img/2014/may/6-3/img_1879_538638e7ddf2b31a6e9d814c.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Här har vi lite blandade bilder från första dagen med vår lilla guldklimp<3

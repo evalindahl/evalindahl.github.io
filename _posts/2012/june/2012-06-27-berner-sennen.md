@@ -6,7 +6,7 @@ title:  "Berner sennen"
 date:   2012-06-27 21:59:51 +0100
 thumbnail-img: /assets/img/2012/june/2012/pic_207307891.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Min moster är ju fodervärd till en Berner sennen och den har varit hos sin ' uppfödare' eller vad man nu ska säga eftersom den har fått en valp. Nu när valpen är snart 8 veckor så kan Lotta hämta hem sin hund då valpen klarar sig själv. Så idag då skulle Lotta hämta hem Nova och kolla på valpen  så passade jag på att följa med då både mamma och Lisa skulle följa. Och fy satan vad söt valpen var! Har typ it sett något sötare!:D åsså var den huuur go som helst. 

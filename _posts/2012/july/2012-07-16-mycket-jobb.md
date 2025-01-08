@@ -6,7 +6,7 @@ title:  "Mycket jobb"
 date:   2012-07-16 19:06:21 +0100
 thumbnail-img: /assets/img/2012/july/2012/img_3532_207527252.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Har jobbat 4 dagar i rad nu och det känns både i kroppen och i hjärtat, får lite dåligt samvete för att man inte hinner umgås nå med sina homeys. Hade så gärna velat samla mina fina tjejor från klassen och hitta på nå kul, men det är så svårt när alla är flera mil ifrån varandra. Hade velat festa också, men det går inte det heller då jag alltid har morgonpass dagen efter, inte så kul att servera glass när man är bakis. Hade så gärna velat gosa med min karamell Matilda men hon är i gällivare.. hade även velat rocka Loppis med Lisa på lördag men då jobbar jag, jävla shiiit.

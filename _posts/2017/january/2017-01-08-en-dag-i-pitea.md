@@ -6,7 +6,7 @@ title:  "En dag i Piteå"
 date:   2017-01-08 19:07:08 +0100
 thumbnail-img: /assets/img/2017/january/8-3/image_583c7a742a6b2206fd5381ed.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
  

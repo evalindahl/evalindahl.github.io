@@ -6,7 +6,7 @@ title:  "nytt objektiv"
 date:   2016-01-22 14:31:05 +0100
 thumbnail-img: /assets/img/2016/january/8-3/img_6910_56a22d6de087c3114a15e8ad.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Nu när jag jobbar så mycket så tycker jag att jag borde få köpa något som jag vill ha men inte behöver. Jag har så länge suktat efter ett nytt objektiv då mina nuvarande objektiv inte hinner fånga Pennys snabba rörelser och får henne så himla mörk på bilder. Så därför köpte jag ett ljusstarkt objektiv som har supersnabb fokus så då hinner jag fånga Penny i alla snabba rörelser. Testkörde det lite idag och jag är väldigt nöjd över bildkvalitén :D

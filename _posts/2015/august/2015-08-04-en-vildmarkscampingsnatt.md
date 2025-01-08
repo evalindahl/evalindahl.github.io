@@ -6,7 +6,7 @@ title:  "en vildmarkscampingsnatt"
 date:   2015-08-04 21:49:21 +0100
 thumbnail-img: /assets/img/2015/august/8-3/img_5751_55c1144de087c377e1919ddf.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 I fredags så gjorde jag och Fredrik nåt som vi har planerat länge, nämligen tälta! Enligt väderprognoserna så skulle det regna men trots det så tältade vi ändå. vi hade bestämt oss helt enkelt! Vi körde till Bröstfallet som vanligt men vi fick sitta i bilen och vänta en stund tills det blev ett regnuppehåll. När regndropparna slutade falla på bilrutan så rusade vi ut och satte upp tältet så fort vi kunde. Det slutade dock regna helt efter vi hade satt upp tältet och solen började rent skina genom molnen. Vi gick på en liten upptäcksfärd, såg film och pratade om allt möjligt innan det var dags för att lägga sig och sova för vi kom dit gode sent, kring 8 på kvällen. När vi vaknade hade vi båda ont i ryggen, det var fuktigt i tältet och Penny låg och fläktade mig i ansiktet, precis som det ska vara när man tältar! Det skulle spöregna hela dagen så vi bestämde oss för att packa ihop tältet redan på morgonen. 

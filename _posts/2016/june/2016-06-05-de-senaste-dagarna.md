@@ -6,7 +6,7 @@ title:  "De senaste dagarna.."
 date:   2016-06-05 22:50:37 +0100
 thumbnail-img: /assets/img/2016/june/8-3/2016-06-05-2236_57548d50e087c32a04d35462.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

@@ -6,7 +6,7 @@ title:  "Julmorgon"
 date:   2012-12-24 11:11:55 +0100
 thumbnail-img: /assets/img/2012/december/2012/img_3110_50d82a27e087c35c67670f82.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 

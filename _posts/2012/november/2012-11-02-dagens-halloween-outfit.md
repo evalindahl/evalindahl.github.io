@@ -6,7 +6,7 @@ title:  "Dagens halloween outfit"
 date:   2012-11-02 16:02:45 +0100
 thumbnail-img: /assets/img/2012/november/2012/img_2310_5093dfc4ddf2b33cfc001487.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Så här ser man ut för kvällen! hahah

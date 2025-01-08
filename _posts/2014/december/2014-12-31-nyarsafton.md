@@ -6,7 +6,7 @@ title:  "nyårsafton"
 date:   2014-12-31 09:59:35 +0100
 thumbnail-img: /assets/img/2014/december/2013/img_4030_50e34c189606ee72a66085bf.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 

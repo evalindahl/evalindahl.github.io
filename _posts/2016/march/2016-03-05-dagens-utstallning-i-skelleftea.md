@@ -6,7 +6,7 @@ title:  "dagens utställning i Skellefteå"
 date:   2016-03-05 18:42:00 +0100
 thumbnail-img: /assets/img/2016/march/8-3/img_7770_56db14d1ddf2b34f96cc0a58.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

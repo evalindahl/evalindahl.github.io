@@ -6,7 +6,7 @@ title:  "jobbijobb"
 date:   2016-11-28 19:47:23 +0100
 thumbnail-img: /assets/img/2016/november/8-3/image_583c7a73e087c32169ac0c0d.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

@@ -6,7 +6,7 @@ title:  "då var man fast"
 date:   2016-04-25 16:05:44 +0100
 thumbnail-img: /assets/img/2016/april/8-3/2016-04-25-1538_571e1deae087c339a180f5f3.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 

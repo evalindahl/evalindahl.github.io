@@ -6,7 +6,7 @@ title:  "Dan före kärleksdagen"
 date:   2014-02-13 09:58:44 +0100
 thumbnail-img: /assets/img/2014/february/2012/img_0064_50d59bf0ddf2b32ceb00162c.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 

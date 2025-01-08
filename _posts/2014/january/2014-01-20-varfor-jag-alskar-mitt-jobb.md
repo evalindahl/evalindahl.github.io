@@ -6,7 +6,7 @@ title:  "Varför jag älskar mitt jobb"
 date:   2014-01-20 18:12:09 +0100
 thumbnail-img: /assets/img/2014/january/6-3/20131122_122203_528f3e71ddf2b3124a0e7d81.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Under mitt arbetspass idag så insåg jag att jag faktiskt älskar mitt jobb! Nu undrar ni säkert varför så jag tänkte punkta upp det i fyra punkter: 

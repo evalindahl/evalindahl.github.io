@@ -6,7 +6,7 @@ title:  "Fade into darkness - Avicii"
 date:   2011-08-22 17:22:28 +0100
 thumbnail-img: /assets/img/2011/august/2011/nature-in-autumn8_162926567.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Hösten kan för många vara den mest deprimerande årstiden.

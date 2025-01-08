@@ -6,7 +6,7 @@ title:  "snöprommis"
 date:   2015-02-03 18:19:28 +0100
 thumbnail-img: /assets/img/2015/february/8-3/img_20150203_121003_54d1022addf2b36e1d0e6527.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
  

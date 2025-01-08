@@ -6,7 +6,7 @@ title:  "sol på balkongen"
 date:   2016-07-20 15:29:01 +0100
 thumbnail-img: /assets/img/2016/july/8-3/image_578f79d4ddf2b3544a7c5659.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

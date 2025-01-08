@@ -6,7 +6,7 @@ title:  "Hälsningar från Gud"
 date:   2011-08-20 17:06:51 +0100
 thumbnail-img: /assets/img/2011/august/2011/img_0391_162612901.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Hej hej! Kom just hem från Sunes, en av fördelarna med att ha föräldrar som bor 8 mil bort ;) hehe ne skojas.

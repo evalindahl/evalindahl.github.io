@@ -6,7 +6,7 @@ title:  "mickis prommis"
 date:   2016-08-16 20:32:03 +0100
 thumbnail-img: /assets/img/2016/august/8-3/2016-06-15-2303_5761c2bbddf2b332706c7ddd.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Idag var vi på prommis med våra voffsingar jag och Mickan. Dock hade Mickan tagit med sig Pennys mamma också som inte var så glad att se Penny om vi säger så..så prommisen började med att Penny blev pinnad mot marken så fort hon hoppade ut ur bilen och blev biten i örat igen...så Pennys mamma fick helt enkelt inte hänga med på prommisen. Hon har haft flera strokes och mår nog ganska dåligt så jag förstår att hon inte vill ha med en högenergisk Penny i närheten. Men, det hade räckt med att morra så hade Penny hållit sig undan. Nästa gång så är det bäst att Pennys morsa inte följer med helt enkelt för det slutar alltid med en skrikande Penny på marken. Isåfall så ska de vara kopplade och först gå på promenad i kopplena tillsammans i kanske 10-15min och sen eventuellt släppa dom om de verkar ha rätt energi. 

@@ -6,7 +6,7 @@ title:  "söndagens utställning"
 date:   2016-03-08 09:36:56 +0100
 thumbnail-img: /assets/img/2016/march/8-3/2016-03-08-0918_56de8af3e087c321d39b2908.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 På söndagens utställning så var Penny ensam som portugisisk vattenhund vilket kändes lite tråkigt för jag ville så gärna ha någon mer portis att jämföra med, och helst en tik. Men portisar är ju inte så vanliga så det är inte konstigt att det inte finns fler som ställs ut på dessa inoffare. 

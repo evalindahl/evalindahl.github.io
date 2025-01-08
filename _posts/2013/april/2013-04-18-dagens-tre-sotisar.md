@@ -6,7 +6,7 @@ title:  "Dagens tre sötisar"
 date:   2013-04-18 10:25:00 +0100
 thumbnail-img: /assets/img/2013/april/6-3/hvduemm_516fae03ddf2b36c78c47faa.gif
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 

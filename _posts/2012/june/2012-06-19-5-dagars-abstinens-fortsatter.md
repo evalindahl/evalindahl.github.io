@@ -6,7 +6,7 @@ title:  "5 dagars abstinens fortsätter"
 date:   2012-06-19 21:24:30 +0100
 thumbnail-img: /assets/img/2012/june/2012/pic_207085998.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Idag är det fem dagar sen jag träffade Fredrik och det kändes helt otroligt att träffa honom igen. Under tiden på hygget där jag sådde frön så hade man mycket tid att tänka på saker och ting så Fredrik ploppade upp väldigt ofta. Och varje gång jag tänkte på honom där på hygget så kunde jag inte hålla mig från att le. För jag är så himla lycklig med honom! 

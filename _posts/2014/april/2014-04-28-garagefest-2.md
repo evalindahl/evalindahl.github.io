@@ -6,7 +6,7 @@ title:  "garagefest"
 date:   2014-04-28 11:50:41 +0100
 thumbnail-img: /assets/img/2014/april/6-3/img_1502_535e1af22a6b22b0fa9cce19.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Här har vi lite bilder från den årliga Garagefesten som inträffade på påsklördagen. Vi är ju så himla många i Risnabben under påsken så därför är det perfekt att festa i garaget, för där får alla plats. Jag hade jättekul under garagefesten för jag blev alldeles lagomt full och var allmänt lycklig. Föregående år så har jag spytt eller så har nån(hehheee) spytt i min säng så därför är jag extra nöjd över detta år, för då hände inget av det. Det blev alltså en lyckad kväll!

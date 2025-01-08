@@ -6,7 +6,7 @@ title:  "biceps/triceps"
 date:   2015-01-06 22:46:57 +0100
 thumbnail-img: /assets/img/2015/january/8-3/img_20150106_171241_54ac56a4e087c33f359b1068.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Det blev inget Piteå idag tyvärr eftersom jag blev inringd på jobb vilket var så tråkigt:( men vi ska ta det en annan dag så det är lugnt!

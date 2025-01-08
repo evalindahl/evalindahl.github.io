@@ -6,7 +6,7 @@ title:  "en sak ni inte vet om mig"
 date:   2016-12-07 17:02:45 +0100
 thumbnail-img: /assets/img/2016/december/6-3/20131206_170648-1_52a5b6c5e087c34b1c2048b7.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  Nu blir det lite djuphet här så spänn fast er! 

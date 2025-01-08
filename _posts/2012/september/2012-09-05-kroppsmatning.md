@@ -6,7 +6,7 @@ title:  "Kroppsmätning"
 date:   2012-09-05 21:48:35 +0100
 thumbnail-img: /assets/img/2012/september/2012/dsc00060_5047ac39e087c328f9000bc6.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Idag har jag varit med om något som helt och hållet ändrade min syn på, ja allt! Jag utsatte mig själv för en kroppsmätning. Proceduren gick till så att jag fick ställa mig på en våg, ange längd och ålder och vipps så kom där ut ett kvitto. På kvittot stod allt jag behövde veta för att inte äta något skrovmål på väldigt väldigt länge. På kvittot så stod det som följande:

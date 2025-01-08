@@ -6,7 +6,7 @@ title:  "julklappsinslagning"
 date:   2014-12-10 12:41:52 +0100
 thumbnail-img: /assets/img/2014/december/8-3/img_20141209_165328_548830412a6b2250c83e6afd.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 

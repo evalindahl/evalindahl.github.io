@@ -6,7 +6,7 @@ title:  "min lilla båt"
 date:   2012-02-13 22:00:44 +0100
 thumbnail-img: /assets/img/2012/february/2012/bti_189291944.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Det enda jag kan tänka på just nu är hur mycket jag önskar att min båt går att köra till sommarn. Ni som inte vet så råkade den ut för en liten..incident under första åkturen så att den inte gick att köra resten av sommaren. Och förvånansvärt så var det inte jag som utförde incidenten!

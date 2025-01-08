@@ -6,7 +6,7 @@ title:  "Too school for cool"
 date:   2011-08-22 14:15:27 +0100
 thumbnail-img: 
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Jahapp dagens skoldag varade i ca 1 timma och en kvart, helt ok faktiskt. 

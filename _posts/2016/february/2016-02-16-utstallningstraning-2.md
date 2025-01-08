@@ -6,7 +6,7 @@ title:  "utställningsträning 2"
 date:   2016-02-16 20:18:07 +0100
 thumbnail-img: /assets/img/2016/february/8-3/2016-02-15-2148_56c239882a6b2223032bcec7.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Igår så var det dags för utställningsträning igen och som vanligt var jag nervös inför det. Jag är ju så orolig över hur Penny ska reagera när domaren kommer fram så därför kommer nervositeten. Denna gång så var även Pennys brorsa med på utställningsträningen vilket både var roligt och liiiiite jobbigt eftersom man får ju mer prestationsångest när han är med. Dessutom har han redan fått ett CERT så då vet jag ju att han blir omtyckt av domarna. MEEEN jag försökte att inte tänka så mycket på det. 

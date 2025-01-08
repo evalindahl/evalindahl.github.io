@@ -6,7 +6,7 @@ title:  "Lite mer bilder från påsken:"
 date:   2013-04-10 09:34:34 +0100
 thumbnail-img: /assets/img/2013/april/6-3/img_5396_516515929606ee66cfacacf1.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Här har vi lite mer bilder från påskens alla stunder!

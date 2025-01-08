@@ -6,7 +6,7 @@ title:  "Nedklippt pennsan"
 date:   2016-08-11 10:15:00 +0100
 thumbnail-img: /assets/img/2016/august/8-3/a_57ab69d5ddf2b309675b3dcd.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Trots att jag tycker att Penny är så himla fin i hennes långa päls så finns det ingen större anledning att hålla den lång om hon inte ska ställas ut. Det tar tid och energi att hålla hennes långa päls tovfri så därför fick det bli en liten make-over förra veckan. Vi klippte henne med sax och behöll ungefär 5 cm av hennes 25cm långa päls bara så att hon kan ställas ut i maj nästa år för då måste hon ha minst 15 cm, och eftersom hennes päls växer ungefär 1cm i månaden så borde hon ha fått ungefär den längden i maj. 

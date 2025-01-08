@@ -6,7 +6,7 @@ title:  "före och efter"
 date:   2016-11-23 10:08:53 +0100
 thumbnail-img: /assets/img/2016/november/8-3/171d1-6bc2f-70ad4-1902a-3dda6-99bb7-33201-6141b_5835572e2a6b2204be305405.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Nu när våran svarta vägg är färdigtapetserad så tänkte jag att jag skulle visa er lite nya före och efter bilder. Det ska dock sättas upp lister i taket och på andra ställen men den största skillnaden syns nog ändå trots att jag it lyckades få lika ljusa bilder som på före-bilderna. Jag är så glad att vi tog tag i att göra om köket för det har en mycket modernare känsla över sig nu. Det finns en hel del småfix för att det ska bli perfekt men känslan över köket är i överlag mycket bra och jag är så nöjd:D 

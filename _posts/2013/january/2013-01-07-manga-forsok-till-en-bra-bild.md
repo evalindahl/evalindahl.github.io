@@ -6,7 +6,7 @@ title:  "Många försök till en bra bild"
 date:   2013-01-07 00:44:12 +0100
 thumbnail-img: /assets/img/2013/january/2013/img_3670_50ea0c04e087c30aa94bbd62.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 ja det här med att vara fotograf kan vara väldigt svårt. Särskilt om man ska fota en Eva.

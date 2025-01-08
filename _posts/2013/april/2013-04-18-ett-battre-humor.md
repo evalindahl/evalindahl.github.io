@@ -6,7 +6,7 @@ title:  "Ett bättre humör"
 date:   2013-04-18 09:50:47 +0100
 thumbnail-img: /assets/img/2013/april/6-3/bild_2013-04-18_kl_0938_516fa592ddf2b36cb1f0e538.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 När jag vaknade imorse så kände jag på en gång att denna dag kommer bli bra. Jag var pigg och ready to rumble! Jag la på lite spackel på ansiktet mitt, tog på mig min skönaste tröja och mina svarta jeans som är så sköna att de nu gått sönder i grenen men jag på för bra humör för att bry mig om det. 

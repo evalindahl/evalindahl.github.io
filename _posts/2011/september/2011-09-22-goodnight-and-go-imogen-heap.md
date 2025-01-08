@@ -6,7 +6,7 @@ title:  "Goodnight and go - Imogen Heap"
 date:   2011-09-22 21:15:13 +0100
 thumbnail-img: /assets/img/2011/september/2011/img_0650_167244311.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Vi kan säga att jag just kom hem från träningen, även om det var en timma sen thihi!

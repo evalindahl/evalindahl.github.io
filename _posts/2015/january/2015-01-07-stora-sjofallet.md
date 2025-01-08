@@ -6,7 +6,7 @@ title:  "stora sjöfallet"
 date:   2015-01-07 20:06:00 +0100
 thumbnail-img: /assets/img/2015/january/8-3/spaceout_54ad8095ddf2b30b06187adf.gif
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 

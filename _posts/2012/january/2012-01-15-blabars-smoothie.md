@@ -6,7 +6,7 @@ title:  "Blåbärs smoothie"
 date:   2012-01-15 17:45:03 +0100
 thumbnail-img: /assets/img/2012/january/2012/dsc03706_184566026.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Som många av er kanske vet så är blåbär ett av det nyttigaste man kan äta i frukt & bär världen. Så en smoothie på blåbär är ju ett bra mellanmål, men även en bra återhämtningsdryck. Därför valde jag att snöra ihop en sådan så här på kvällskvisten!

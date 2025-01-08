@@ -6,7 +6,7 @@ title:  "mina inköp"
 date:   2014-08-06 20:58:15 +0100
 thumbnail-img: /assets/img/2014/august/6-3/20140806_204401_53e2794e2a6b2245183dde46.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 här har ni lite bilder på vad jag köpte igår! Det blev mycket småsaker så det var träningsbyxorna från Nike som gjorde att pengarna drog iväg. Men de var så himla sköna att det inte gjorde nåt.

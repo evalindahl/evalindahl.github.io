@@ -6,7 +6,7 @@ title:  "livet med hund"
 date:   2014-06-30 12:01:13 +0100
 thumbnail-img: /assets/img/2014/june/6-3/img_2212_53b12b5eddf2b338fbe20980.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Nu har vi haft Penny i över en månad och det har varit en månad fylld med rutinändringar och prövningar. Man har verkligen fått se över vilken sorts ledare man har tänkt vara och man har fått bestämma taktik vid nya händelser hela tiden. Men det är så lärorikt för mig att vara ledare för i vanliga fall så är jag mer av en följare som gärna lyder andra. Nu växer jag som person när jag får bestämma och vara den som ser till att regler följs.

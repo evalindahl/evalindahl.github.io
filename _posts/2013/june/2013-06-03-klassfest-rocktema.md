@@ -6,7 +6,7 @@ title:  "Klassfest-rocktema"
 date:   2013-06-03 10:44:42 +0100
 thumbnail-img: /assets/img/2013/june/6-3/img_6482_51ac56909606ee50c0f01903.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Igårkväll var jag som sagt på klassfest hos Elin och jag hade kul trots att jag inte drack så mycket. Jag var dock trött efter att ha rest hela natten och knappt sovit något så därför så var jag kanske inte den vildaste kniven i lådan. Det var dock ändå roligt att få samlas med klassen och köra igång studentveckan! Vi åt ju dessutom på pentan innan vilket var väldigt mysigt då man fick prata och äta god mat tillsammans.

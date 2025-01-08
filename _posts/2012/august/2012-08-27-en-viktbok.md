@@ -6,7 +6,7 @@ title:  "En viktbok"
 date:   2012-08-27 16:00:07 +0100
 thumbnail-img: /assets/img/2012/august/2012/images_copy_503b7d61ddf2b33abc00001b.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Tränade 7 gånger förra veckan och ska fortsätta med samma stuk den här veckan! Vissa dagar kör jag på både morgonpass och kvällspass bara för att det är nu eller ald.. ja senare går ju också men det är ju nu man vill vara smärt! Jag har även kommit på vad jag vill göra som projektarbete! Eftersom min viktnedgång är ett projekt i sig så tänkte jag att det skulle vara super att väva ihop projektarbetet i det. 

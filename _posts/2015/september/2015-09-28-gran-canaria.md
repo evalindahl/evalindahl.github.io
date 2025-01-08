@@ -6,7 +6,7 @@ title:  "Gran Canaria"
 date:   2015-09-28 19:24:03 +0100
 thumbnail-img: /assets/img/2015/september/8-3/europemediterraneanspaincon_espgrancanariaplayadelinglesres_000323_560975eee087c31c4d46f850.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 För några veckor sedan så bokade jag och min familj en resa till Gran Canaria! Det kommer bli så underbart och det kommer bli särskilt nice eftersom vi ska fara den 11e december. Då lämnar vi vår kalla vintervärld för att resa direkt till sommaren med sol,bad och livsnjutning. När vi kommer hem så är det mindre än en vecka till julafton så vi kommer vara utvilade och härligt solkyssta då. Jag längtar jättemycket!:D

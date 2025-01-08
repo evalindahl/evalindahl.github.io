@@ -6,7 +6,7 @@ title:  "chopp chopp"
 date:   2017-04-11 19:53:14 +0100
 thumbnail-img: /assets/img/2017/april/8-3/5-razored-brunette-ombre-lob_58ed15692a6b22928dc94f53.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
  

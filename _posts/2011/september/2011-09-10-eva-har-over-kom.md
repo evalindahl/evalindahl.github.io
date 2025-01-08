@@ -6,7 +6,7 @@ title:  "Eva här, över kom."
 date:   2011-09-10 17:32:52 +0100
 thumbnail-img: /assets/img/2011/september/2011/dsc00071_165513885.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Hej Eva här. Jag rapporterar direkt från Risnabben. Är här i arbets och pengasyfte mest, iallafall den här helgen. Har nämligen halvt "slösat bort" 3 helger här hos familjen istället för att vara med mina kompisar. Så nästa helg blir det ändring på schemat. Även om det är chilla att va här också. 

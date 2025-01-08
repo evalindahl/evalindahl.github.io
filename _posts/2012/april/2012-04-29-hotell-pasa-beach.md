@@ -6,7 +6,7 @@ title:  "Hotell Pasa Beach"
 date:   2012-04-29 13:58:13 +0100
 thumbnail-img: /assets/img/2012/april/2012/images_200420412.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 hihi jag ändrade kanske inte passet just nu för den enda anledningen att det hade blivit för gammalt.. utan kanske också för att JAG SKA UTOMLANDS!! Och inte med vilka som helst utan med LISA, EMIL OCH FREDRIK! Nu är det ju kanske så att alla redan vet om detta men jag vill ändå skriva ut det på svart och..rosa.

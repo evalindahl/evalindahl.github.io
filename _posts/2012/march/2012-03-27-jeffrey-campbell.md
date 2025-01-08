@@ -6,7 +6,7 @@ title:  "Jeffrey Campbell"
 date:   2012-03-27 19:05:53 +0100
 thumbnail-img: /assets/img/2012/march/2012/cgjfgj_195794399.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Såg just på Dessies blogg hur hon hade lagt ut en bild på massa skor från Jeffrey Campbells "litas". Och hon är lika frälst i de här skorna som jag är. Fy fan vilka snygga skor!! Jag har ju redan ett par 

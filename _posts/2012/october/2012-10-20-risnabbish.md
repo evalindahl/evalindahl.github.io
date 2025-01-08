@@ -6,7 +6,7 @@ title:  "Risnabbish"
 date:   2012-10-20 18:20:59 +0100
 thumbnail-img: /assets/img/2012/october/2012/img_1785_5082c7389606ee0324b129a7.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Helgen spenderar jag i Risnabben med min kära familj. Just den här dagen så har jag följt mamma ut på promenad, övervakat husbyggen, hälsat på farmor, möblerat om i rummet, hittat ett fint rött läppstift(visar bild sen), sprungit 45 minuter på löpbandet och än är dagen inte slut! Hade iofs kunnat göra en massa blogginlägg om dessa händelser men jag har inte hunnit!

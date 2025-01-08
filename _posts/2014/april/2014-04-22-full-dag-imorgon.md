@@ -6,7 +6,7 @@ title:  "full dag imorgon"
 date:   2014-04-22 19:08:40 +0100
 thumbnail-img: /assets/img/2014/april/6-3/20140422_190055_5356a05b2a6b22473627bcb4.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Idag har jag mest tagit det lite lugnt och laddat upp för morgondagen. Då ska jag först till Piteå på utbildning hela dagen. Vi ska vara på en brandutbildning och jag tror att det kommer vara väldigt lärorikt. Jag har ju aldrig ens testat använda en brandsläckare så det ska bli intressant. Det känns som härligt att vara på utbildning för då får man betalt för att fika, prata och lära sig lite smått. 

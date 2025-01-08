@@ -6,7 +6,7 @@ title:  "lite blandade bad och båtbilder"
 date:   2015-09-02 12:25:00 +0100
 thumbnail-img: /assets/img/2015/september/8-3/img_5951_55e49b8de087c3285b9f7532.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 

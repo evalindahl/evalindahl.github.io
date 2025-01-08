@@ -6,7 +6,7 @@ title:  "When I look at you - Miley Cyrus"
 date:   2011-09-07 15:27:55 +0100
 thumbnail-img: /assets/img/2011/september/2011/img_0501_165097455.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Oj kom på att bloggerskan har legat på latsidan med att dela med sig av sin vardag. Så HEJ igen kära läsare.

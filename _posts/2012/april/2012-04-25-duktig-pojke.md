@@ -6,7 +6,7 @@ title:  "Duktig pojke"
 date:   2012-04-25 16:40:26 +0100
 thumbnail-img: /assets/img/2012/april/2012/pic_199921795.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Så där då var vi klara med veterinärbesöket. Theo var jätteduktig och lät ingenting då veterinären stack honom med sprutorna. Om jag hade varit honom så hade jag skrikit i 2 h efter den där chip-sprutan men han var tuff som få. 

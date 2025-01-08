@@ -6,7 +6,7 @@ title:  "Sötiprutt"
 date:   2012-10-16 12:59:39 +0100
 thumbnail-img: /assets/img/2012/october/2012/img_1074_507d3ddc9606ee5fe2810beb.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Fredrik är så himla söt när han ska ha kvalitetstid med Theo! 

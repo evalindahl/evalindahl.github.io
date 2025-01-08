@@ -6,7 +6,7 @@ title:  "Önskelistaaah"
 date:   2012-07-20 18:44:24 +0100
 thumbnail-img: /assets/img/2012/july/2012/mihih_207553768.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Ja nu är det ju bara 11 dagar kvar tills jag fyller år, och då förstår jag att många kanske vill ge mig något i present, så då har jag skrapat ihop lite önskningar!

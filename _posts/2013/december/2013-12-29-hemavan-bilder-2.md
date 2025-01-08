@@ -6,7 +6,7 @@ title:  "Hemavan bilder"
 date:   2013-12-29 20:28:50 +0100
 thumbnail-img: /assets/img/2013/december/6-3/img_0961_52c075e82a6b22a4c193c1b8.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Ni fick ju bara se en liten del av alla bilder som togs i Hemavan så jag tänkte visa er lite mer bilder därifrån!

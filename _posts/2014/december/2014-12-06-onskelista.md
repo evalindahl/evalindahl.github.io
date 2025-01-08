@@ -6,7 +6,7 @@ title:  "önskelista"
 date:   2014-12-06 14:40:46 +0100
 thumbnail-img: /assets/img/2014/december/6-3/img_1161_548304089606ee2af5cfad4c.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Nu är det ju jul igen och om det är några av mina hemliga läsare som har tänkt ge mig nån julklapp i år så tänkte jag göra det lite lättare för er genom att skriva en liten önskelista:D 

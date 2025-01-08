@@ -6,7 +6,7 @@ title:  "Fredag o lördag"
 date:   2015-01-12 11:44:50 +0100
 thumbnail-img: /assets/img/2015/january/8-3/a_54b3a31c9606ee1f44e26482.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 I fredags så for jag upp till Piteå för att vara där till på söndagmorgon. På fredagen så spelade jag Risk med Elin och Albin vilket var kul!:D Sen på lördagmorgonen så gasade jag, Elin och Luna iväg till Pajala för att träffa Lunas mamma och syster. Det var jättekul att få se skillnaderna mellan Luna och hennes släktingar.  Åsså kändes det som ett litet äventyr att få fara iväg till Pajala med Elin och få se hur läget var där liksom:D 

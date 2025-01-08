@@ -6,7 +6,7 @@ title:  "morgonträning"
 date:   2015-05-09 14:01:17 +0100
 thumbnail-img: /assets/img/2015/may/8-3/temporary-image1431172393400_554df52a2a6b224f46057864.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Idag så var det tidig uppstigning kl 06:30 för att hinna äta frukost och låta den smälta till kl 9. Då cyklade jag till gymmet i spöregnet för att kriga mig igenom ett arm/axelpass. Det var helt tomt på gymmet så jag kunde göra lite som jag ville där inne. Det blev en hel del olika övningar och i slutet var jag helt död så det är ju ett kvitto på att jag har jobbat på bra.

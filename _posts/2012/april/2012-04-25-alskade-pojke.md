@@ -6,7 +6,7 @@ title:  "Älskade pojke"
 date:   2012-04-25 12:10:31 +0100
 thumbnail-img: /assets/img/2012/april/2012/pic_199893647.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Och Fredrik tycker jag är konstig...

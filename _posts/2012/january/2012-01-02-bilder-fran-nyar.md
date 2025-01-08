@@ -6,7 +6,7 @@ title:  "Bilder från Nyår"
 date:   2012-01-02 18:43:27 +0100
 thumbnail-img: /assets/img/2012/january/2012/dsc03530_182280130.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Här kommer en liten bildbomb från nyår! Tänkte ladda upp bilderna på fejjan också men det verkar inte gå, så det får bli lite senare :)

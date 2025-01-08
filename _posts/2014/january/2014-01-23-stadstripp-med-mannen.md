@@ -6,7 +6,7 @@ title:  "stadstripp med mannen"
 date:   2014-01-23 13:54:17 +0100
 thumbnail-img: /assets/img/2014/january/6-3/aoo_52e10fc4e087c37a3a57b8fd.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Det blev inte riktigt en sån där hemmadag idag utan jag och Fredrik ska strax iväg och dricka kaffe och småshoppa lite grann. Det är bara fem minus ute och därför känns det tråkigt att bara sitta inne. Så det blir kul med en liten stadstripp med karln min!

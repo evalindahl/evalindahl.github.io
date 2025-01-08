@@ -6,7 +6,7 @@ title:  "Piteå summergames paraden"
 date:   2012-06-30 09:58:35 +0100
 thumbnail-img: /assets/img/2012/june/2012/pic_207347578.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Efter marknaden igår så for jag iväg till stan med Matilda för att beskåda paraden och spendera tid med min pingla såklart. Vi hamnade på ett tak där många av mina klasskompisar satt och spanade på paradfolket. 

@@ -6,7 +6,7 @@ title:  "Mamma och mormor time"
 date:   2013-07-22 21:07:20 +0100
 thumbnail-img: /assets/img/2013/july/6-3/img_6099_518274a99606ee09647782a6.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Efter att jag jobbat halv 8 till fem idag så for jag direkt iväg till tre kronor där jag åt en middag för två med min kära mor. Hon skulle nämligen iväg ned till stan för att bland annat lämna över räkningar till lilla mig. Jag ska ju börja betala för bilen, hyran och akassan nu så då var det bra att jag fick papprena för det. Det känns extra vuxet att få betala räkningarna själv. Det kommer dock kännas hemskt att så mycket pengar kommer gå åt en massa tråkiga saker som skatt, hyra och el men det är nog bara att vänja sig. 

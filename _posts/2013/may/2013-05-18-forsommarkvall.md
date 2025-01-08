@@ -6,7 +6,7 @@ title:  "Försommarkväll"
 date:   2013-05-18 00:13:10 +0100
 thumbnail-img: /assets/img/2013/may/6-3/img_6363_5196a91fddf2b3357116faca.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Denna kväll har varit helt magisk! Jag och gänget for iväg till tages för picknick och bara häng i solnedgången. Det var huuuur mycket folk som helst ute och man såg små högar med folk överrallt. Det såg nästan ut som ett studentcampus. Vi for som sagt dit när solen just skulle bege sig nedåt så det var hur vackert som helst ute. Det var även varmt och skönt så man kunde vara utan jacka om man ville(thihi). Jag råkade spilla kaffe på min så den var inte så rolig att använda efter det.. men jag gjorde det ändå. Vi latchade lite boll, snackade, grillade och bara hade roligt så där som bara vårat gäng kan ha:D I slutet kom även Fredrik och joinade våran lilla grupp och det var väldigt roligt!

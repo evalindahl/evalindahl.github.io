@@ -6,7 +6,7 @@ title:  "Irriterad"
 date:   2012-04-02 20:54:40 +0100
 thumbnail-img: /assets/img/2012/april/2012/penna_196668577.png
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Jag kan i princip inte släppa det faktum att min lärare vägrar ger mig ens VG på ett arbete som i mina ögon skulle ligga på den gränsen och lite till. Tänk er själva att lägga ner mycket tid, tanke och arbete på någonting som ni förväntar er att få riktigt bra betyg på. Ni känner att 

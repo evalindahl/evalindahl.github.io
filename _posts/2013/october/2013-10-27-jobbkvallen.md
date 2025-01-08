@@ -6,7 +6,7 @@ title:  "jobbkvällen"
 date:   2013-10-27 10:39:51 +0100
 thumbnail-img: /assets/img/2013/october/6-3/20131026_223712_526cdf2f9606ee45885dd0a8.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Ja hur gick det egentligen för mig igår?  Jag förstår att många av er har legat sömnlösa inatt för att få veta. Så jag ska berätta för er hur det gick!

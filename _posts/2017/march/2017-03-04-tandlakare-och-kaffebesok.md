@@ -6,7 +6,7 @@ title:  "tandläkare och kaffebesök"
 date:   2017-03-04 08:55:15 +0100
 thumbnail-img: /assets/img/2017/march/8-3/image_58ba6ccdddf2b36234885287.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Igår så började jag dagen med en långprommis med Penny upp på vårat lilla "berg" här på anderstorp och det var ingen som hade gått där sen det snöade så mycket så vi fick plumsa i djupsnön hela vägen upp. Penny har ju it så långa ben så hon hoppade jämfota upp för hela berget i princip så många gånger när jag kollade bak efter spåret vi gått upp så ser jag hur hon bara står stilla och tittar på mig typ: Seriöst matte, du är ju tokig! Varför kan vi it gå på dom plana redan tillplattade spåren istället?? Men det var värt det när vi kom upp för då lös solen så vackert över naturen och vi kunde ta en liten paus i den fräscha luften innan vi började vår vandring tillbaka ner för berget. 

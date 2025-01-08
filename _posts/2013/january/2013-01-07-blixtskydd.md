@@ -6,7 +6,7 @@ title:  "Blixtskydd"
 date:   2013-01-07 00:33:00 +0100
 thumbnail-img: /assets/img/2013/january/2013/img_3660_50ea087de087c30a9cba813c.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 För någon vecka sedan så köpte jag några blixtskydd till kameran och igår så testade jag och Fredrik det! Blixtskyddet ska mjuka upp skuggorna som landar på motivet och skapa en finare yta dårå. Och jag tyckte det blev mycket bättre bild med skyddet på. Men ni kan ju döma själva:D

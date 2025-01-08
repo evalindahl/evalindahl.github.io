@@ -6,7 +6,7 @@ title:  "jobbijobb"
 date:   2013-06-20 14:40:19 +0100
 thumbnail-img: /assets/img/2013/june/6-3/bild126_51c2f79e9606ee616ff7acbd.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Jag har spenderat denna otroligt vackra dag(NOOOOT) på arbetsförmedlingen och hemma i läggan. Jag var nämligen iväg på det här välkomstmötet som är obligatoriskt för alla som skriver in sig på arbetsförmedlingen. Mötet gav inte så mycket då jag redan visste det mesta som de sa, men aja what to do! Jag känner mig inte direkt arbetslös då jag redan har hunnit jobba så mycket de senaste två veckorna. Denna vecka har jag jobbat både i måndags, igår och så ska jag även jobba ikväll. Jag som trodde att jag bara skulle få två arbetspass denna månad, se så fel jag hade! Dessutom har jag ju jobbat på storköket också så lite cash borde jag då få i slutet av nästa månad. 

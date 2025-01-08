@@ -6,7 +6,7 @@ title:  "The result"
 date:   2012-07-26 17:46:50 +0100
 thumbnail-img: /assets/img/2012/july/2012/img_3840_207591663.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Och här har vi resultatet av färgningen! Det blev som en sorts askig ljusbrun färg som ser väldigt naturlig ut på mig måste jag då säga. Den ser väldigt olik ut beroende på vilket ljus som ligger på och det är ju för att lite guld fortfarande skiner igenom lite precis som jag ville att det skulle göra. Dock hade det kunna skina igenom lite mer men jag tror det kommer bli så hur som haver när färgen börjar tvättas ut. 

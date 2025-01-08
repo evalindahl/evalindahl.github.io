@@ -6,7 +6,7 @@ title:  "Risnabben helg"
 date:   2016-02-01 18:07:47 +0100
 thumbnail-img: /assets/img/2016/february/8-3/img_7057_56af90a3ddf2b31f78d2b63f.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

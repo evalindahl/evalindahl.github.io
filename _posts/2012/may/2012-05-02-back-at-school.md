@@ -6,7 +6,7 @@ title:  "Back at school"
 date:   2012-05-02 11:06:13 +0100
 thumbnail-img: /assets/img/2012/may/2012/splashin-the-apple_200872323.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Åh äntligen är man tillbaka i skolan igen! Eller nåt. Spenderade hela morgonen med att byta till sommardäck på bilen min så nu går den som en.. sommarbil. Fick även två nya framdäck av pappa och kom just på att jag glömde tacka han för det.. jag får ta det nästa gång vi ses! 

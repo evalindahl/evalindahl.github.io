@@ -6,7 +6,7 @@ title:  "Skotercross"
 date:   2013-02-23 14:43:51 +0100
 thumbnail-img: /assets/img/2013/february/6-3/japhjr_5128c646ddf2b3402904645e.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Även om det är lördag idag så blev det inte att sova ut imorse utan det blev att stiga upp kl 8 för att göra sig redo för dagen. Jag har nämligen varit iväg på skotercross hela förmiddagen. Det var väldigt spännande att se på när de tävlande kämpade för första platsen. Det var kul att en infjärding vann dessutom! Men det roligaste var nog ändå att umgås med människorna som var där och flumma på :D Hade med mig systemkameran också så nu får ni fina bilder att titta på!

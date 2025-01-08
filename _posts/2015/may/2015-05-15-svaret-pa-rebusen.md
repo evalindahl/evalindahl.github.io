@@ -6,7 +6,7 @@ title:  "Svaret på rebusen!"
 date:   2015-05-15 15:25:00 +0100
 thumbnail-img: /assets/img/2015/may/8-3/mv5bmtuymte0odcxnf5bml5banbnxkftztgwode4ndqznte_v1_sx640_sy720__55543f869606ee4800b20323.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 God morgon! Jag tänker bara berätta att vi ska se Mad Max på torsdag halv 9, puss!

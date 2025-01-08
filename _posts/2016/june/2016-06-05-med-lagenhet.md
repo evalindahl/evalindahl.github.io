@@ -6,7 +6,7 @@ title:  "med lägenhet!!!"
 date:   2016-06-05 23:08:05 +0100
 thumbnail-img: /assets/img/2016/june/8-3/2016-06-05-2253_575491359606ee310c817099.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 I fredags efter att jag vaknat kl 14 så la jag ett bud på en lägenhet som jag och Fredrik blev helt lyriska över bara över att se bilderna på den, men utan att ha varit på visning då den it ens hade kommit ut på hemnet än utan var på blocket "lite före". Kl 17 så ringer mäklaren och säger att säljarna godtar budet och jag bara WHAT?!?! inombords, kunde it ens fatta att det var sant. Men vi bokade iallafall in att vi skulle fara på en snabb visning samma dag kl 20:30 eftersom man alltid får se lägenheten även om man budar innan visning. 

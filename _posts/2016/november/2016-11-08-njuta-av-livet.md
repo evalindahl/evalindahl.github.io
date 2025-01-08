@@ -6,7 +6,7 @@ title:  "njuta av livet"
 date:   2016-11-08 13:45:43 +0100
 thumbnail-img: /assets/img/2016/november/2012/dsc04589_207187614.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Jag och Fredrik pratar ibland om vi ska fara på nån resa tillsammans snart men eftersom det skulle kosta oss minst 20.000 att resa nånstans tillsammans så tar det emot lite. Då känner vi på ett sätt att det känns mer värt det att köpa en ny tv och surroundsystem eftersom det kan vi njuta av längre än en veckas utlandsresa. Men minnena från en utlandsresa varar längre än tv:n och livet är till för att levas. 

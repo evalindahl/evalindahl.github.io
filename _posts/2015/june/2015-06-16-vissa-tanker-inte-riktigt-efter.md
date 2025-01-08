@@ -6,7 +6,7 @@ title:  "Vissa tänker inte riktigt efter.."
 date:   2015-06-16 15:01:05 +0100
 thumbnail-img: /assets/img/2015/june/8-3/4jv7qgw_55801dcaddf2b35edb6418bf.gif
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 

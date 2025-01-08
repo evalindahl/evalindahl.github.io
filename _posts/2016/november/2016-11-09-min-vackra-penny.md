@@ -6,7 +6,7 @@ title:  "min vackra penny"
 date:   2016-11-09 14:09:14 +0100
 thumbnail-img: /assets/img/2016/november/8-3/img_9752_582315c09606ee30fc815c05.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

@@ -6,7 +6,7 @@ title:  "Efter en hel dag.."
 date:   2012-03-27 18:54:12 +0100
 thumbnail-img: /assets/img/2012/march/2012/430213_198297590279656_1609272801_n_195790405.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 ..på APU med den här killen:

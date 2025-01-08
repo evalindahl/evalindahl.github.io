@@ -6,7 +6,7 @@ title:  "Gott nytt år"
 date:   2017-01-01 03:30:26 +0100
 thumbnail-img: /assets/img/2017/january/8-3/image_5868568e9606ee7316274a2e.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Ja min nyårsafton blev ju inte så jätterolig med tanke på att jag jobbar mellan 16 och 07. Så vid tolvslaget så stod jag på jobbet och tittade ut på fyrverkerierna tillsammans med fredrik och hans kompis som hade kommit för att hålla mig sällskap just under tolvslaget. Det var roligt att de kom förbi en snabbis så jag slapp stå här helt ensam men 

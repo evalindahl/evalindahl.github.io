@@ -6,7 +6,7 @@ title:  "Destination: inte risnabben"
 date:   2013-09-06 17:49:48 +0100
 thumbnail-img: /assets/img/2013/september/6-3/20130906_154657-1_5229f9569606ee23a1e172a5.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Det blev inget Risnabben i helgen. I början ville jag helst fara nästa helg men då kunde inte Fredrik. Men nu kan han tydligen det så då blir det att vi far då istället.  Det kändes dock tråkigt när jag redan hade sagt till alla att vi skulle upp åsså blev det inte. Men som tur var så kommer vi ju ändå om bara en vecka. Pappa fyller dessutom år nästa helg så det passar ju bra att vi kommer då istället:))

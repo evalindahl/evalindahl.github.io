@@ -6,7 +6,7 @@ title:  "Lördagskvällen"
 date:   2012-05-06 21:04:22 +0100
 thumbnail-img: /assets/img/2012/may/2012/154562_434850089877383_100000571875840_1514022_1784348330_n_201523951.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Gårkvällen levererade inte riktigt som jag trodde att den skulle men den var 

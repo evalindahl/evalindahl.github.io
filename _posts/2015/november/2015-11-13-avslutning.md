@@ -6,7 +6,7 @@ title:  "avslutning"
 date:   2015-11-13 12:22:44 +0100
 thumbnail-img: /assets/img/2015/november/8-3/wp_20150713_17_29_13_pro_5645c617ddf2b36b84021b98.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Idag var sista kurstillfället på vardagslydnadskursen. Det känns tråkigt att det är över för det har varit så kul att få ha nåt särskilt att göra med Penny varje vecka. Och så har man ju fått läxa till nästa gång så då har man haft något specifikt att träna på hemma istället för cirkuskonster. Kursen har gjort att Penny nu spontant tar kontakt med mig när hon ser en annan hund istället för att hetsa och bli helt låst vid den andra hunden. Den har även gjort att jag har fått mer stadga i de kommandon jag ger henne. Så det känns helt klart värt de 900kr som det kostade att gå kursen. En tjej från kursen frågade om jag ville träna nån gång med hundarna vilket jag tycker lät jättekul så det ska vi ta tag i. 

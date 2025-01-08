@@ -6,7 +6,7 @@ title:  "valpbilder"
 date:   2014-05-08 19:07:47 +0100
 thumbnail-img: /assets/img/2014/may/6-3/val_536bb8c02a6b227ccafe04a3.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
  Här har vi lite bilder från när vi var och hälsade på valparna i onsdags. Jag tänkte att jag vill ju ha bra bilder från vårat möte med våran nya familjemedlem. Dessutom ville jag ha lite bilder på några syskon också så därför tog jag med mig systemkameran. Det var dock lite mörkt i vissa delar av rummet så därför blev några bilder lite mörka, men man ser ju ändå.  Så titta och njuut:D

@@ -6,7 +6,7 @@ title:  "En sak ni inte vet om mig"
 date:   2013-10-23 16:40:56 +0100
 thumbnail-img: /assets/img/2013/october/6-3/dsc04650_5267dcfbe087c301fcacb810.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Okej nu kanske detta är en sak många av er redan vet men jag tänkte att jag tar det ändå! 

@@ -6,7 +6,7 @@ title:  "Grillkväll"
 date:   2013-01-27 00:18:43 +0100
 thumbnail-img: /assets/img/2013/january/2013/img_4249_51046293ddf2b351d69ba6e8.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Har just spenderat en riktigt rolig lördagskväll med roliga människor uppe på strömlida. Vi grillade kööörv, pratade, skrattade, åkte stjärtlapp och busade omkring. Det var så roligt för att det är sådana här saker som är de roligaste minnena. En lördagskväll på krogen brukar inte vara så minnesvärd eftersom man oftast inte kommer ihåg så mycket från den kvällen. Men när man drar ihop ett gäng bara för att umgås så är det oftast roligare och man kommer dessutom ihåg det dagen efter och många många dagar efter det. 

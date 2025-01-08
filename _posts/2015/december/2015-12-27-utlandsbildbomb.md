@@ -6,7 +6,7 @@ title:  "Utlandsbildbomb!"
 date:   2015-12-27 12:42:00 +0100
 thumbnail-img: /assets/img/2015/december/8-3/img_20151211_133911_567edd5ae087c3549c6f2ff1.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Här kommer en bildbomb från min familjs utlandsresa! Jag kommer låta bilderna tala för sig själva men jag vill ändå säga att det var det bästa resmålet hittils:D

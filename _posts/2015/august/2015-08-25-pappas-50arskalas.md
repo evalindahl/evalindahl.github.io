@@ -6,7 +6,7 @@ title:  "Pappas 50årskalas"
 date:   2015-08-25 14:34:00 +0100
 thumbnail-img: /assets/img/2015/august/8-3/img_6099_55e49dcde087c3289d613ec1.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 

@@ -6,7 +6,7 @@ title:  "jobbijobb"
 date:   2016-10-21 18:26:26 +0100
 thumbnail-img: /assets/img/2016/october/8-3/image_580a3c002a6b22405b10cb86.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Nu är jag inne på min 5e arbetsnatt och jag längtar sååå tills denna arbetsvecka är över för den har gått så segt. Jag vet inte riktigt varför egentligen men den har bara det. Själva arbetsnätterna i sig är inte sega för tiden går väldigt fort på nätterna även om man inte kan tro det. Men det finns så mycket att göra på nätterna att man står ju som aldrig still och bara väntar ut tiden, även om jag kan tänka mig att det finns många arbetare som gör så. Men jag har för hög arbetsmoral för att bara stå, jag har ju trots allt betalt för att jobba så då ska jag fan jobba. Sååå när jag är klar med alla saker som jag måste göra enligt rutinschemat så brukar jag alltid hitta på andra småsaker att göra. Putsa glasytor, fylla upp, grovrengöra ställen man it alltid rengör, stöka undan saker uti kassan osv. 

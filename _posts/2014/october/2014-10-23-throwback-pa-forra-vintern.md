@@ -6,7 +6,7 @@ title:  "throwback på förra vintern"
 date:   2014-10-23 20:22:13 +0100
 thumbnail-img: /assets/img/2014/october/6-3/a_5449457e9606ee7050196d71.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Nu är det snöstorm ute och då kan man inte förneka att det är vinter, eller man kan det men då får man konstiga blickar o.O Så därför började jag tänka på förra vintern och hoppas att jag kommer ha en lika rolig vinter detta år. Förra året så gjorde jag mycket roliga saker men några höjdpunkter ser ni på bilderna nedan:D

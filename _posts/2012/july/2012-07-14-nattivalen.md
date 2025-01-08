@@ -6,7 +6,7 @@ title:  "Nattivalen"
 date:   2012-07-14 21:15:19 +0100
 thumbnail-img: /assets/img/2012/july/2012/dsc04649_207513663.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Här har vi lite pics från nattivalen!

@@ -6,7 +6,7 @@ title:  "Underbar dag"
 date:   2012-04-13 15:25:05 +0100
 thumbnail-img: /assets/img/2012/april/2012/pic_198244151.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Jag for på gymmet en sväng nu på lunch och så när jag började gå hem så fick jag en våg av världens bästa känsla: lycka! 

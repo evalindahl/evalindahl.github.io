@@ -6,7 +6,7 @@ title:  "köksrenovering"
 date:   2016-10-17 12:36:30 +0100
 thumbnail-img: /assets/img/2016/october/8-3/21e10-c5b45-cffe5-2b4c2-def09-32a5a-11a66-8f0dc_5804a4dbddf2b351f0fd1928.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 I helgen har vi haft Ralf och Ingalill här som har hjälpt oss med att renovera köket lite. Vi skulle byta bänkskiva, sätta dit ny diskho och sätta dit ny stänkskiva. Så vi jobbade på i två dagar och sen var allt på plats. Det finns fortfarande flera saker som ska göras men det är så himla kul att se förvandligen som redan har blivit. Det blev ett helt annat kök! Nu var det lite svårt att få fina bilder med mobiltelefonen men man får ju en liten aning hur allt ser ut just nu. Nu ska vi bara dit med fler lister, installera några spotlights under köksskåpen och tapetsera den svarta väggen vit med lite diskreta silver/grå mönster. Sen får jag vara nöjd ett tag iallafall:D Jag vill lämna in två luckor och alla lådluckor på ommålning och reparation och köpa ny kyl och frys men det får bli någon gång i framtiden isåfall ^^ 

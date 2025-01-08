@@ -6,7 +6,7 @@ title:  "femtio minuter"
 date:   2012-07-30 20:49:58 +0100
 thumbnail-img: /assets/img/2012/july/2012/img_3952_207616135.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Efter jobbet så drog jag iväg till gymmet för ett rykande löp-pass. Hann ju knappt träna förra veckan så ska ta igen det i veckan. Vill ju egentligen träna regelbundet men det är så svårt under sommarlovet när andra saker kommer upp hela tiden. Det är mycket lättare när man går skola faktiskt. Men skola ska vi inte tänka på nu!

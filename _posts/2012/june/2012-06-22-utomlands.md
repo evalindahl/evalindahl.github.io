@@ -6,7 +6,7 @@ title:  "utomlands"
 date:   2012-06-22 13:37:00 +0100
 thumbnail-img: /assets/img/2012/june/2012/dsc04324_207187528.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Wiiie äntligen har jag fått ut alla marmaris bilder på Facebook! Det tog längre tid än vad jag trodde men tillslut så. Man får sånt himla glädjerus när man tittar igenom alla bilder för det var så himla underbart där. Det känns så sjukt att det bara var 2 veckor sedan man var där och tog bilderna.. :s 

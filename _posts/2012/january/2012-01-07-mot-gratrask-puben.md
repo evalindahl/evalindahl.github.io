@@ -6,7 +6,7 @@ title:  "Mot gråträsk puben"
 date:   2012-01-07 10:12:59 +0100
 thumbnail-img: /assets/img/2012/january/2012/pic_183151935.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 (gårdagens inlägg som inte ville publiceras)

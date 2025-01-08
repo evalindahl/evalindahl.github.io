@@ -6,7 +6,7 @@ title:  "måla måla måla"
 date:   2016-11-09 13:11:08 +0100
 thumbnail-img: /assets/img/2016/november/8-3/img_9833_58230c949606ee30f9d60c5b.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  Efter dagars förberedande så kunde vi äntligen sätta oss ner och måla våra tavlor. Vi följde varsin video på youtube som visade hur man skulle använda teknikerna och hur man skapar vackra landskap. I några timmar satt vi och målade bredvid varandra i vårat kontor som var fyllt med målargrejor och möbler. Det var väldigt roligt och kreativt att få måla tillsammans och testa något som vi aldrig gjort förut. I slutet av målarsessionen började jag bli trött i ryggen och lite less men jag lyckades ändå få min målning att bli färdig. Så nu har vi två fina tavlor att hänga upp i läggan!:D jag tycker att Fredriks tavla blev mycket finare än min och jag var så imponerad av hans skills. Han är som händig den där karln!

@@ -6,7 +6,7 @@ title:  "Min nya hårfärg"
 date:   2012-02-07 20:47:40 +0100
 thumbnail-img: /assets/img/2012/february/2012/hre_188313632.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Här kommer en bild på den nya hårfärgen!:D

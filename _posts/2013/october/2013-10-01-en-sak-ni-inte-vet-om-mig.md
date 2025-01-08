@@ -6,7 +6,7 @@ title:  "En sak ni inte vet om mig"
 date:   2013-10-01 19:23:32 +0100
 thumbnail-img: /assets/img/2013/october/6-3/evaradd_524b04979606ee4182a0e954.png
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Jag hade tänkt berätta en sak som många kanske inte vet om mig. Nu är det ju så att många som läser min blogg känner mig väldigt väl så det är som svårt att säga saker de inte vet. Men det finns en del saker som jag t.ex. tänker på eller känner som jag inte säger. 

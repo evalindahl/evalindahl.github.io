@@ -6,7 +6,7 @@ title:  "Sommarplaner"
 date:   2015-03-14 17:03:15 +0100
 thumbnail-img: /assets/img/2015/march/8-3/aaaaa_5396fb92e087c37e2678f589_550457eaddf2b32d768640d8.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 här har ni några av mina planer för denna sommar! Det brukar ju aldrig bli att man gör allt man planerat men jag ska försöka iallafall:D

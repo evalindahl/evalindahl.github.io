@@ -6,7 +6,7 @@ title:  "badabadabada"
 date:   2016-06-06 19:30:00 +0100
 thumbnail-img: /assets/img/2016/june/8-3/img_8429_575499079606ee3143abc655.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

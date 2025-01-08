@@ -6,7 +6,7 @@ title:  "lilla stumpan"
 date:   2016-02-11 14:36:43 +0100
 thumbnail-img: /assets/img/2016/february/8-3/nops_56bc8bdee087c36631a70880.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

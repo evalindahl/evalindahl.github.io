@@ -6,7 +6,7 @@ title:  "Dagen i kortare drag"
 date:   2012-03-22 20:32:11 +0100
 thumbnail-img: /assets/img/2012/march/2012/pic_195087643.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 14:36 mysig fika med Lisa på kvarters som bestod av en lchf smörgås( som var jättegod) och kaffe. 

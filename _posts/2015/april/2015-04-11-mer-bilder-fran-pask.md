@@ -6,7 +6,7 @@ title:  "mer bilder från påsk"
 date:   2015-04-11 13:17:00 +0100
 thumbnail-img: /assets/img/2015/april/8-3/img_4543_55265ec19606ee5f313216c7.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 

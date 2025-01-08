@@ -6,7 +6,7 @@ title:  "Förhoppningsvis"
 date:   2012-01-08 15:15:13 +0100
 thumbnail-img: /assets/img/2012/january/2012/boniver_183364015.png
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 

@@ -6,7 +6,7 @@ title:  "Jobb och middag"
 date:   2017-02-11 02:38:46 +0100
 thumbnail-img: /assets/img/2017/february/8-3/image_589e65d5ddf2b3175317084b.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 I veckan är det ju jobbvecka så det är vakna nätter som gäller. Igårnatt var första natten på mina 8 månader som nattarbetare som jag var trött under arbetspasset. Hela kroppen var superseg och det enda jag ville göra var att sova. Men med en kaffe och en banan så fick jag upp energin och lyckades ta mig igenom passet. När jag väl fick sova så sov jag som en stock och vaknade faktiskt inte 

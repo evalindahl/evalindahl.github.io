@@ -6,7 +6,7 @@ title:  "söndagsmiddag"
 date:   2017-03-05 20:12:43 +0100
 thumbnail-img: /assets/img/2017/march/8-3/image_58bc571c2a6b225703ed55de_58bc5b47e087c3066db5c52f.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Fredriks familj har bestämt sig för att styra ihop söndagsmiddag en gång i månaden och så turas man om att hålla den. Denna gång var det vår tur för vi ville hinna ha våran middag innan Fredrik far till Tyskland. Jag hade en hel del som skulle fixas innan middagsgästerna skulle komma så jag kände mig lite stressad dagen innan. Det blev ännu mer stressigt när jag pga av min höga arbetsmoral räddade stationen från att stå personallös på söndagmorgonen så jag jobbade från 06:45 till 11 och sen var jag tvungen att stressa loss med allt som skulle fixas på ännu mindre tid. Men jag hann då göra allt innan gästerna kom så det kändes skönt. 

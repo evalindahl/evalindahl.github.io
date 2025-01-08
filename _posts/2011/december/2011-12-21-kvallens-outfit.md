@@ -6,7 +6,7 @@ title:  "Kvällens outfit"
 date:   2011-12-21 16:15:53 +0100
 thumbnail-img: /assets/img/2011/december/2011/gul_180145273.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Tanken var att jag och Fredrik skulle göra mat hemma hos mig. Men jag kände faktiskt att det skulle vara lindrigare att äta ute,är även så himla sugen på något med pommes.. inte bra :(

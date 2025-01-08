@@ -6,7 +6,7 @@ title:  "Söta djur som blir lite rädda...:D"
 date:   2014-08-29 19:01:06 +0100
 thumbnail-img: /assets/img/2014/august/6-3/1wxljxk_5400b19be087c351460d13af.gif
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 

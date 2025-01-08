@@ -6,7 +6,7 @@ title:  "Lite bilder från förra veckan"
 date:   2012-08-27 15:38:39 +0100
 thumbnail-img: /assets/img/2012/august/2012/img_4136_503b780bddf2b3706f0001a1.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Ja förra veckan gjorde jag lite allt möjligt. Det var nodo besök med lisa där jag åt världens godaste mackaaaaa, mumma! Och det var bowling med Lindström och Olivia där jag som vanligt.. vann;) Jag insåg att jag läser en kurs med Matildaaaa!!! Släkt träff har det också varit men kan berätta lite mer om det senare!

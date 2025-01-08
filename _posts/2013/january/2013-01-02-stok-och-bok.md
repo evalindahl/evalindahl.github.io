@@ -6,7 +6,7 @@ title:  "stök och bök"
 date:   2013-01-02 21:59:34 +0100
 thumbnail-img: /assets/img/2013/january/2013/pc290002_50e49f36e087c36cbf09b251.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Usch vad stökigt det har varit hemma hos familjen Wiklund-Lindahl-Morrison. Vi har nämligen skaffat oss en diskmaskin som vi köpt av familjen Lindström! Det innebar att vi var tvungna att lista ut det bästa sättet att placera denna manick. Vi valde då att ha den i vårat skafferi vilket innebar en hel del arbete. Hela skafferiets innehåll var tvunget att flyttas till ett annat skåp och det skåpets innehåll var tvungen att placeras någon annan stans. Plus detta var i princip allt vårt porslin odiskat så det såg ut som ett jäkla bombnedslag.

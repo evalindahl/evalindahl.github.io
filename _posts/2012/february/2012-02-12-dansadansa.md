@@ -6,7 +6,7 @@ title:  "Dansadansa"
 date:   2012-02-12 15:58:53 +0100
 thumbnail-img: /assets/img/2012/february/2012/pic_189028031.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Hej! Sitter just nu och inväntar att sh-bam ska börja, är fett taggad!! Ska bli kul att få skaka loss och få lite inspiration till svenska uppsatsen som ska skrivas sen ;) men träning är nästan det bästa sättet för att få energi och inspiration. 

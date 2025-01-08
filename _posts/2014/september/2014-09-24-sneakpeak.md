@@ -6,7 +6,7 @@ title:  "Sneakpeak"
 date:   2014-09-24 23:02:52 +0100
 thumbnail-img: /assets/img/2014/september/6-3/myr2_54232f4cddf2b31c57f4af29.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
  

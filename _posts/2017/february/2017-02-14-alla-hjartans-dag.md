@@ -6,7 +6,7 @@ title:  "Alla hjärtans dag"
 date:   2017-02-14 12:27:11 +0100
 thumbnail-img: /assets/img/2017/february/8-3/image_58a2e64ce087c35959c54d45.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Eftersom fredrik går i skolan idag så ska vi börja fira alla hjärtans dag sen när han skolat färdigt. Så medan han är i skolan så har jag än så länge varit ut på en jogging/powerwalk-runda med Penny och ett axelpass på vårat kvartersgym. Det är så himla skönt att ha det gymmet nära för då slipper man cykla in när det är halt och snöigt. 

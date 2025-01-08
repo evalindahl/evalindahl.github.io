@@ -6,7 +6,7 @@ title:  "sista båtturen"
 date:   2016-09-21 23:05:27 +0100
 thumbnail-img: /assets/img/2016/september/8-3/image_57e2d69788e59d8ffedffaf8.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

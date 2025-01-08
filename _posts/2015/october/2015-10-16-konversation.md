@@ -6,7 +6,7 @@ title:  "Konversation"
 date:   2015-10-16 19:51:10 +0100
 thumbnail-img: /assets/img/2015/october/8-3/2015-10-16-1949_562138c2e087c3263035d36a.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Så här kan det se ut när jag och fredrik smsar med varandra:

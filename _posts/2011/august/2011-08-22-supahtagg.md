@@ -6,7 +6,7 @@ title:  "Supahtagg"
 date:   2011-08-22 14:23:33 +0100
 thumbnail-img: /assets/img/2011/august/2011/picture0217_162898995.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Blev så taggad på att träna att jag nu har bestämt mig för att fara och köpa nya träningskläder! 

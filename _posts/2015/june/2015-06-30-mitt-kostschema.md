@@ -6,7 +6,7 @@ title:  "Mitt kostschema"
 date:   2015-06-30 12:46:37 +0100
 thumbnail-img: /assets/img/2015/june/8-3/temporary-image1435660336612_559270329606ee5b3cf99d31.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
  

@@ -6,7 +6,7 @@ title:  "mammafasoner"
 date:   2015-01-20 09:59:54 +0100
 thumbnail-img: /assets/img/2015/january/8-3/cgncwx3_54be1752e087c30d956ad3f5.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 

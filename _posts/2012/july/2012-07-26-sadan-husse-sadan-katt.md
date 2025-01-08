@@ -6,7 +6,7 @@ title:  "Sådan husse sådan katt"
 date:   2012-07-26 17:52:23 +0100
 thumbnail-img: /assets/img/2012/july/2012/fre_207591781.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 

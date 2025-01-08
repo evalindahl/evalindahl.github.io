@@ -6,7 +6,7 @@ title:  "Liten kisse"
 date:   2014-02-05 13:05:50 +0100
 thumbnail-img: /assets/img/2014/february/2012/picnik-collage_193861131.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 

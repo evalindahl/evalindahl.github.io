@@ -6,7 +6,7 @@ title:  "valphämtning: check!"
 date:   2013-11-28 15:33:35 +0100
 thumbnail-img: /assets/img/2013/november/6-3/img_20131128_133025_529752e0ddf2b318bcbc72bc.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Igår körde vi i 4 timmar tills vi kom till Sundsvall.  När vi kom fram till Sundsvall så hade våran släkting Hardy dukat fram supergott kvällsfika, vilket var underbart! Vi sov sedan ett tag och sen började vi köra kl 4 igen. Det har gått bra att köra ocj vi har underhållt oss med musik och billekar. Det är jättebra fäste på vägarna så det är skönt.  

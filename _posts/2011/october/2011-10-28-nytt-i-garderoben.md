@@ -6,7 +6,7 @@ title:  "Nytt i garderoben"
 date:   2011-10-28 16:30:00 +0100
 thumbnail-img: /assets/img/2011/october/2011/img_0918_172446273.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Lite shopping har ju pågått under veckan så här har vi lite underbara iphone bilder på inköpen

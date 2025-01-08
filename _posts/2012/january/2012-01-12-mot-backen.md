@@ -6,7 +6,7 @@ title:  "Mot backen!"
 date:   2012-01-12 10:10:47 +0100
 thumbnail-img: /assets/img/2012/january/2012/pic_184031083.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 (gårdagens inlägg som inte ville publiceras) 

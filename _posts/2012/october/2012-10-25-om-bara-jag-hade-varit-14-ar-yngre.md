@@ -6,7 +6,7 @@ title:  "Om bara jag hade varit 14 år yngre..."
 date:   2012-10-25 10:57:29 +0100
 thumbnail-img: /assets/img/2012/october/2012/images-3_5088fe5de087c3083e4961a6.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 

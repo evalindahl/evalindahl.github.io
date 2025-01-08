@@ -6,7 +6,7 @@ title:  "Ha den äran!"
 date:   2011-10-27 22:02:47 +0100
 thumbnail-img: /assets/img/2011/october/2011/dsc01624_172378280.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 

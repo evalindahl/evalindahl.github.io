@@ -6,7 +6,7 @@ title:  "Kostrådgivning"
 date:   2012-09-12 18:34:31 +0100
 thumbnail-img: /assets/img/2012/september/2012/apoojg_5050b991e087c35b0a062098.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Ja då har man genomfört kostrådgivningen. Där fick jag höra saker jag har hört säkert 3 gånger tidigare. Även om det kanske kändes lite uttjatat att få höra det där igen så fick jag veta vikten av att göra det mest självklara som finns, nämligen att 

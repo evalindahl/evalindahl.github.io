@@ -6,7 +6,7 @@ title:  "Dagens huvudsakliga aktiviteter"
 date:   2013-10-12 17:04:33 +0100
 thumbnail-img: /assets/img/2013/october/6-3/20131012_165110_525963879606ee061dfa2f89.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Idag har jag huvudsakligen gjort dessa saker:

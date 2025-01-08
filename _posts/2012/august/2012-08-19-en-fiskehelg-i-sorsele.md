@@ -6,7 +6,7 @@ title:  "En fiskehelg i sorsele"
 date:   2012-08-19 19:00:34 +0100
 thumbnail-img: /assets/img/2012/august/2012/img_4087_207749489.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Så där nu har man kommit hem från en fisketur i de djupaste skogarna i Sorsele. Det har varit en himla kul resa med mycket fisk och mycket trevligt sällskap. Det var mycket mygg och knott längs bäcken vi fiskade vid men det gick faktiskt att överleva ändå! Det nappade ganska ofta så då hann man som inte tänka på krypen. Man fick bara harr och öring som vi senare stekte och åt, och he var himla gott alltså!

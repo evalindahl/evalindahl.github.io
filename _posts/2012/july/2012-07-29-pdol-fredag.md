@@ -6,7 +6,7 @@ title:  "PDOL fredag"
 date:   2012-07-29 19:59:21 +0100
 thumbnail-img: /assets/img/2012/july/2012/dsc04800_207608435.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Här har vi lite bilder från fredagkvällen. Den kvällen gick jag och matilda in nyktra och hade supertrevligt ändå. vi strosade omkring, träffade en massa folk och lyssnade på underbar musik. Som vanligt när man är nykter på en festival så ser man världen på ett helt annat sätt. Man såg bara sludder och folk som inte kunde stå på sina egna ben. Det ser man ju inte när man själv är onykter, som i lördags hehe!

@@ -6,7 +6,7 @@ title:  "gardiner och lampa i sovrummet"
 date:   2016-08-31 11:40:21 +0100
 thumbnail-img: /assets/img/2016/august/8-3/bfdd8-52cc2-0a4c4-ccd99-2b8e1-6e22b-4c040-95e60_57ab744e9606ee7d82f79773.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

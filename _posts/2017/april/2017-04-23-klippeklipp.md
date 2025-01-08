@@ -6,7 +6,7 @@ title:  "klippeklipp"
 date:   2017-04-23 17:51:49 +0100
 thumbnail-img: /assets/img/2017/april/8-3/image_58fccb09ddf2b368f0c72294.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 

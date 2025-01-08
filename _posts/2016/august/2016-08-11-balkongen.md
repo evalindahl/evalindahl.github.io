@@ -6,7 +6,7 @@ title:  "balkongen"
 date:   2016-08-11 20:36:00 +0100
 thumbnail-img: /assets/img/2016/august/8-3/a89a5-58afb-683cd-c50d4-7d88a-fbd2e-b59ab-74869_57ab73269606ee7d6f14bbed.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

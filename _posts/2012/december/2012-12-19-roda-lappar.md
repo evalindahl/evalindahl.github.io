@@ -6,7 +6,7 @@ title:  "Röda läppar"
 date:   2012-12-19 15:01:49 +0100
 thumbnail-img: /assets/img/2012/december/2012/img_20121219_112503_50d1c87f9606ee2651a6372d.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 

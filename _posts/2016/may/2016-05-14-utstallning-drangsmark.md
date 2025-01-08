@@ -6,7 +6,7 @@ title:  "Utställning Drängsmark"
 date:   2016-05-14 15:30:10 +0100
 thumbnail-img: /assets/img/2016/may/8-3/2016-05-14-1514_573724c7ddf2b32a20c19fdd.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

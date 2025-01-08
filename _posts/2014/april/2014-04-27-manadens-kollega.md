@@ -6,7 +6,7 @@ title:  "månadens kollega"
 date:   2014-04-27 10:29:18 +0100
 thumbnail-img: /assets/img/2014/april/6-3/20140427_102027_535cbf8be087c33a178fb1f1.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Jag blev utnämnd till månadens kollega under förra personalmötet och det var ju jättekul! Nomineringen var:

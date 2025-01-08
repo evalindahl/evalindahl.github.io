@@ -6,7 +6,7 @@ title:  "drinkfesten"
 date:   2016-02-09 11:02:34 +0100
 thumbnail-img: /assets/img/2016/february/8-3/2016-02-09-1037_56b9b35c2a6b2273c785a826.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

@@ -6,7 +6,7 @@ title:  "Underbar dag"
 date:   2012-07-17 20:04:34 +0100
 thumbnail-img: /assets/img/2012/july/2012/dsc04717_207535204.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Det blev inte att fara till någon av de nedan nämda badplatserna utan vi for iväg till Tages istället för då kunde vi ta med Theo.  Det är faktiskt jättehärligt att ligga där och se när båtarna kör förbi och dessutom slippa sanden som annars attackerar en på stranden konstigt nog... Dock så kunde jag ju som inte bada där men det får jag ta någon annan dag helt enkelt. Fick då min sol och lite bättring på brännan så jag är nöjd ändå!

@@ -6,7 +6,7 @@ title:  "Husdrömmar"
 date:   2017-03-08 20:10:10 +0100
 thumbnail-img: /assets/img/2017/march/8-3/img_20150724_163140_58c04c19e087c37cd1c7c43f.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Som vanligt när jag jobbar natt så spinner mina tankar iväg och jag hinner tänka om allt möjligt under nätterna. Igår så kom jag dock på en väldigt spännande idé! Det är ju så här att Fredriks föräldrar vill sälja sitt hus, skaffa en liten lägenhet och bara fara iväg och segla all ledig tid typ. Och då började jag tänka att men, vi hade ju kunnat köpa deras hus! Det är ett jättefint, stort hus som vi it hade behövt renovera nåt alls utan hade bara kunnat flytta in och om vi nu måste renovera nåt med tiden så vet de ju deras hus utantill så de kan ge tips om var de dragit ledningar och sånt. 

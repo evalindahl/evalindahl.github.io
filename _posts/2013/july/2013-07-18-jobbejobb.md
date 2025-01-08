@@ -6,7 +6,7 @@ title:  "jobbejobb"
 date:   2013-07-18 11:23:43 +0100
 thumbnail-img: /assets/img/2013/july/6-3/bild131_51e7b230e087c31e744d84ce.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 

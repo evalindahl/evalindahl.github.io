@@ -6,7 +6,7 @@ title:  "Våran vistelse till Hemavan"
 date:   2013-12-15 21:39:43 +0100
 thumbnail-img: /assets/img/2013/december/6-3/apo_52ae12dfe087c3020cfb1204.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Hela vistelsen har varit helt UNDERBAR! Vi har haft det så otroligt mysigt därborta och fjärilarna i magen flög omkring lite extra. Det var så himla längesen vi gjorde något speciellt och det är ju viktigt att man gör nåt speciellt då och då så man sprakar till i brasan lite, och det har vi verkligen gjort.

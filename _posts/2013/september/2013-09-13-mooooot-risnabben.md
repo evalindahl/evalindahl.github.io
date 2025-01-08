@@ -6,7 +6,7 @@ title:  "mooooot risnabben!"
 date:   2013-09-13 13:00:40 +0100
 thumbnail-img: /assets/img/2013/september/6-3/20130913_125318_5232f0449606ee0fdd1ec4ae.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Snart ska jag och Fredrik äntligen bege oss mot risnabben! Jag är jättetaggad för det var så längesen han var upp och så ska lisa och emil dit så det blir extra kul att få träffa dom också:D jag hoppas bara att det blir bra väder så vi kan fara och fiska! 

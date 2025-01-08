@@ -6,7 +6,7 @@ title:  "gulliga Fredrik"
 date:   2017-04-12 20:41:30 +0100
 thumbnail-img: /assets/img/2017/april/8-3/image_58ee709c9606ee7e7c7c3318.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
  

@@ -6,7 +6,7 @@ title:  "AAAIK AAAAAIK AAAAIK SKELLEFTE AIK!!!"
 date:   2012-12-28 23:25:10 +0100
 thumbnail-img: /assets/img/2012/december/2012/pc280002_50de1b8ee087c35c8fc8e51e.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Mina förväntningar om hockeymatchen blev bättre än förväntat så jag fick en alldeles underbar kväll! Det var så spännande att se hur spelarna kämpade och samtidigt höra klacken skrika lag-visor i örat på en. Det var en helt annan sak än att se på tv så jag lär väl aldrig kunna göra något annat än att se hockey live i framtiden. Ställningen blev 5-2 vilket jag tyckte var perfekt för då hann det bli lite spännande även om Skellefteå vann.

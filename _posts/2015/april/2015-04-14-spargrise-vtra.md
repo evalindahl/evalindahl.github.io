@@ -6,7 +6,7 @@ title:  "spargris"
 date:   2015-04-14 18:38:00 +0100
 thumbnail-img: /assets/img/2015/april/8-3/7318731301048_lundhags_002_552d29f89606ee2f58c0f82a.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Jag har just nu lyckats samla ihop en hel del pengar på mitt sparkonto eftersom jag lever gode snålt. Jag unnar inte mig själv så mycket dyra saker utan stoppar hellre undan pengarna till större och viktigare saker i framtiden, såsom min kontantinsats. Men om jag hade velat spendera pengar på saker som jag egentligen inte behöver men skulle vilja ha så hade jag köpt följande saker: 

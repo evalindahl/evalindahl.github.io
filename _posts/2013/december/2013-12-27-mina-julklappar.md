@@ -6,7 +6,7 @@ title:  "Mina julklappar"
 date:   2013-12-27 12:09:00 +0100
 thumbnail-img: /assets/img/2013/december/6-3/img_1176_52bc9954ddf2b3315414bab7.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Jag är så himla nöjd över mina julklappar! Jag blev helt chockad över alla klappar för alla var så bra och välbehövda. 

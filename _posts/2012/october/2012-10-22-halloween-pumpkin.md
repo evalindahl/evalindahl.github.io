@@ -6,7 +6,7 @@ title:  "Halloween pumpkin"
 date:   2012-10-22 18:40:35 +0100
 thumbnail-img: /assets/img/2012/october/2012/img_2100_508576dc9606ee031d48a101.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 En odekorerad pumpa är ingen pumpa alls så jag och Fredrik tog och dekorerade våran. Det var en lång process med manus-skrivande, skissande, kaffepauser och skärande. Men efter någon timma så var pumpan klar, och jisses vad mysig den blev! Skenet från den var väldigt inspirerande så vi valde att se en drös skräckfilmer efter det ;)

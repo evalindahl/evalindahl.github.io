@@ -6,7 +6,7 @@ title:  "en sak ni inte vet om mig"
 date:   2014-09-15 20:54:25 +0100
 thumbnail-img: /assets/img/2014/september/6-3/untitled_541733102a6b22557a8d5f49.png
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 

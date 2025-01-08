@@ -6,7 +6,7 @@ title:  "Torsdag-söndag lycksele"
 date:   2016-07-28 20:33:55 +0100
 thumbnail-img: /assets/img/2016/july/8-3/image_579a4c919606ee45a30e1b65.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Förra veckan så stack jag iväg till Lycksele direkt efter jobbet på torsdagmorgon. Hela familjen skulle dit som vanligt så jag ville också fara dit för att få leva lite campingliv. Det var strålande väder alla dagar jag var där så hela dagarna så hängde vi på Ansia-badet där vi badade massor, spelade volleyboll och umgicks. På kvällarna så satt vi och mös med nån god cider i handen och surrade på om allt möjligt, spelade minigolf eller gick omkring på campingen. Det var otroligt härligt att få vara där och ha lite minisemester och umgås med familj och vänner:D 

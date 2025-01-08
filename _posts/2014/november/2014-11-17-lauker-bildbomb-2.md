@@ -6,7 +6,7 @@ title:  "Lauker bildbomb"
 date:   2014-11-17 17:33:14 +0100
 thumbnail-img: /assets/img/2014/november/6-3/img_3384_546a1fbbe087c33048adcb29.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Här har ni massa bilder från våran helg i lauker + lite bilder från när vi var och hälsade på Annika och André på lördagen:D

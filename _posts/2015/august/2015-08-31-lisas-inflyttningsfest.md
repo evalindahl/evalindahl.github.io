@@ -6,7 +6,7 @@ title:  "Lisas inflyttningsfest"
 date:   2015-08-31 20:17:36 +0100
 thumbnail-img: /assets/img/2015/august/8-3/a_55e499f0ddf2b305776e7c11.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 

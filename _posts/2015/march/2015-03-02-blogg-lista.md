@@ -6,7 +6,7 @@ title:  "blogg-lista"
 date:   2015-03-02 22:25:00 +0100
 thumbnail-img: /assets/img/2015/march/6-3/temporary-image1415032331711_5457ae0dddf2b377d065ca21.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Nämn

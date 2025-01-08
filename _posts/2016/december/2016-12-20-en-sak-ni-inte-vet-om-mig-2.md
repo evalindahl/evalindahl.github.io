@@ -6,7 +6,7 @@ title:  "en sak ni inte vet om mig"
 date:   2016-12-20 07:38:42 +0100
 thumbnail-img: /assets/img/2016/december/8-3/dsc03418_5858b8c72a6b229cacd1fad2.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Jag tycker cigarettrök luktar gott! Inte all cigarettrök, särskilt inte typ prince-rök och inte cigarettrök-lukt som kommer från nåns kläder eller mun, men ny cigarettrök från nån som står och röker. Jag vet it varför men det är nånting med lukten som jag tycker luktar gott. Kanske tar det en tillbaka till somrar på moster Lottas altan när hon satt och rökte och jag och Lisa låg och solade och hade det gött i solen eller just skulle iväg på nåt äventyr. 

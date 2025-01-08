@@ -6,7 +6,7 @@ title:  "fem tusen meter"
 date:   2013-01-06 23:35:00 +0100
 thumbnail-img: /assets/img/2013/january/2013/hehehe_50e9fa02ddf2b3417dc0a5e2.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Fem tusen meter, 5 km, en halv mil. För första gången i mitt liv har jag lyckats springa så långt utan att behöva stanna för att återhämta andningen. Kan ni förstå vilken lycka! När jag började springa(alltså ever) så kunde jag inte springa längre än 2 km för då var jag d.ö.d. Nu kan jag springa en halv mil och jag var inte ens särskilt trött! Så jag powerwalkade en till kilometer och körde ett litet styrkepass för armarna. Snart kanske jag springer en mil utan större ansträngning, det vore nåt det.

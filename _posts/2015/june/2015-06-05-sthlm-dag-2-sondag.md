@@ -6,7 +6,7 @@ title:  "sthlm dag 2, söndag"
 date:   2015-06-05 08:57:00 +0100
 thumbnail-img: /assets/img/2015/june/8-3/temporary-image1433398721992_556fedc3ddf2b3620a6fe01c.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 På söndagen så bestämde vi oss för att fara till ett ställe som heter Tom Tits Experiment vilket är som Teknikens Hus i Luleå fast mer avancerat och mycket större. Det var en väldigt spännande dag med många intressanta experiment och fascinerande saker. Det var väldigt stort och det fanns hur många experiment som helst att göra. Vi var där större delen av dagen och experimenterade och utforskade och hade väldigt roligt. När vi var klara där så for vi till ett stort shoppingcenter i södertälje(tror jag) och kollade omkring lite. Jag var dock inte så sugen på att shoppa så det blev bara en shaker från XXL. Vi åt däremot en mysig middag på Pizza hut där i gallerian vilket var jättegott. Vi beställde en paket-måltid där man fick några förrätter, en medelstor pizza och en efterätt som man då delade på 2-3 personer. Jag, Elin och Fredrik delade på den och det var alldeles perfekt mängd mat så det räckte till alla och vi blev riktigt mätta. 

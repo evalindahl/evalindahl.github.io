@@ -6,7 +6,7 @@ title:  "Lägenheten"
 date:   2012-02-03 14:25:43 +0100
 thumbnail-img: /assets/img/2012/february/2012/dsc03736_187566475.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Ni kanske undrar hur det ser ut i lägenheten nu efter att Fredrik och jag har fixat och trixat? 

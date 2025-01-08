@@ -6,7 +6,7 @@ title:  "DOUBLE RAINBOW"
 date:   2013-09-04 19:06:05 +0100
 thumbnail-img: /assets/img/2013/september/6-3/aheo_522768279606ee355abdb437.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 

@@ -6,7 +6,7 @@ title:  "Hissar och dissar"
 date:   2013-11-20 20:49:58 +0100
 thumbnail-img: /assets/img/2013/november/6-3/evahissdiss_527a2866e087c3162ead502b.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 

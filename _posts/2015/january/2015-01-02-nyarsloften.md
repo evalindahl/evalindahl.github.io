@@ -6,7 +6,7 @@ title:  "nyårslöften"
 date:   2015-01-02 11:58:00 +0100
 thumbnail-img: /assets/img/2015/january/8-3/aaaa_54a595ba2a6b226e2acfa74f.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Oftast är nyårslöften lättbrutna men jag ska verkligen se till att mina löften håller sig intakta! Mina nyårslöften är: 

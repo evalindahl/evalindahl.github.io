@@ -6,7 +6,7 @@ title:  "Ge allt eller inget"
 date:   2011-08-28 22:13:51 +0100
 thumbnail-img: /assets/img/2011/august/t0.gstatic.com/images?q=tbn:ANd9GcR38Vr1Gyc0k3TKThfI8znMRYsvL2Dpw5QGoLU0VSGnF192QgrY
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Tjenare! Kom just hem från en afton av fotboll och årets sista skräpmat.. fuck :/

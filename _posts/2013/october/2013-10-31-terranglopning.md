@@ -6,7 +6,7 @@ title:  "terränglöpning"
 date:   2013-10-31 14:00:47 +0100
 thumbnail-img: /assets/img/2013/october/6-3/20131031_113559_527253a29606ee477d08e08c.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Jag tog en lååång sovmorgon och tänkte egentligen skita i att träna, för att jag fortfarande var trött. Jag låg i sängen länge och tittade på instagram och kom över många motiverande bilder som fick mig att inse att en löptur skulle göra mig gott. Så jag snörde på mig löputrustningen och begav mig iväg till ett elljusspår nära oss. Det var väldigt tuff terräng på vissa ställen då det är ett litet berg med stora stenar och mosskullar. Jag tycker att det är extra roligt när man springer i terräng för då får man ta i lite extra. Dessutom är naturen så himla vacker i skogen så man blir så inspirerad av att springa runt där.

@@ -6,7 +6,7 @@ title:  "Dagens sötisar"
 date:   2013-08-21 20:44:56 +0100
 thumbnail-img: /assets/img/2013/august/6-3/uzgtpge_52150a85e087c376e2955dc3.gif
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 

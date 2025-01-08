@@ -6,7 +6,7 @@ title:  "Hockeybilder"
 date:   2014-04-14 15:50:55 +0100
 thumbnail-img: /assets/img/2014/april/6-3/ao_534be4b5e087c31240463e33.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Det tog nästan en vecka men nu har jag äntligen lagt in bilderna som jag tog från hockeyn! När jag tittar på bilderna så får jag som en pirrig känsla i kroppen för blev så rörd under öppningsceremonin. Publiken i stadion är ju så entusiastisk så man dras verkligen med i deras sinnestämning. Det kändes så häftigt att alla i publiken stod och hoppade de två sista minuterna av matchen. Det ska bli spännande att se hur det går för Skellefteå imorgon på den första finalmatchen. Det hade varit helt otroligt om de vann i år igen, men man vågar ju inte hoppas för mycket. Nästa vi ska se hockey i Skellefteå så pratade vi om att vi borde äta på O'learys för under hemmamatcherna så får man äta 2 för 1 och se matchen. Det tror jag hade varit jättekuk:D

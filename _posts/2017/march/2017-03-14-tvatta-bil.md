@@ -6,7 +6,7 @@ title:  "tvätta bil"
 date:   2017-03-14 08:09:22 +0100
 thumbnail-img: /assets/img/2017/march/8-3/image_58c7948ee087c37b2125c452.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
  

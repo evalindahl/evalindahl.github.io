@@ -6,7 +6,7 @@ title:  "bröllopstankar"
 date:   2016-02-11 15:20:56 +0100
 thumbnail-img: /assets/img/2016/february/215742/a-line_wedding_dress_with_scalloped_off_the_shoulder_sleeves.full.jpg?1406071890
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

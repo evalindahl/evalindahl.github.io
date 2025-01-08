@@ -6,7 +6,7 @@ title:  "badabadabada"
 date:   2014-08-07 17:09:15 +0100
 thumbnail-img: /assets/img/2014/august/6-3/20140807_144033_53e3956fddf2b3549946863c.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Veckans rutin efter jag har jobbat hae alltid vart att fara och bada. Det är ju fortfarande sjuukt varmt ute så det är så skönt att få svalka sig med ett dopp i det blå. Åsså är det så roligt att se när Penny hämtar pinnar ur vattnet. Idag var vi och badade på ett ställe som heter Mobacken vilket är en å. Där kan man bada hunden utan att nån bryr sig för det är ingen sandstrand där. Penny och jag badade och det var så härligt!:D det är dock strömt där så det var lite jobbigt för Penny. Så vi badade it så länge men lagomt länge för att hinna svalka oss. Bilder på det!

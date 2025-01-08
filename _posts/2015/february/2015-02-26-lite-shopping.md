@@ -6,7 +6,7 @@ title:  "lite shopping"
 date:   2015-02-26 13:56:31 +0100
 thumbnail-img: /assets/img/2015/february/8-3/img_20150225_145105_54ef157bddf2b33693840b26.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 

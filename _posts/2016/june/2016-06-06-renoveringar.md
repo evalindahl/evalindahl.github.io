@@ -6,7 +6,7 @@ title:  "renoveringar"
 date:   2016-06-06 18:42:30 +0100
 thumbnail-img: /assets/img/2016/june/8-3/171d1-6bc2f-70ad4-1902a-3dda6-99bb7-33201-6141b_5755a69f2a6b225293476276.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  Vi ska ju göra lite små renoveringar i lägenheten när vi flyttar in. Vi ska göra om köket lite, sovrummet och bättra på de vita väggarna i vardagsrummet. Vi kommer börja att göra om sovrummet men vi har kollat lite på hur vi ska göra om köket också. Vi ska förmodligen betsa eller måla om köksöns bänkskivor och riva de övermålade tapeterna på ena väggen och spackla och måla den i någon färg. 

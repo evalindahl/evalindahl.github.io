@@ -6,7 +6,7 @@ title:  "läget med lägenheterna"
 date:   2016-05-20 18:29:01 +0100
 thumbnail-img: 
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Den förra lägenheten vi var och kollade på hade vi inte ens en chans att kunna köpa då den gick från utgångspriset 560.000 till 760.000 på fyra timmar, och då var inte ens budgivningen klar utan den slutade på 800.000. Det sjuka är att den var inte ens i bra skick utan massor av saker var otroligt dåligt gjort, men folk är väl lite desperata känns det som. 

@@ -6,7 +6,7 @@ title:  "Spelkväll"
 date:   2015-09-02 11:21:29 +0100
 thumbnail-img: /assets/img/2015/september/8-3/2015-09-02-1119_55e6bf399606ee262972cc05.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 I fredags så samlades ett härligt gäng inkl mig själv hos Lisa och Emil och spelade sällskapsspel. Det var så roligt att få va hemma hos dom och spela roliga spel samtidigt som man pratar om allt möjligt och äter nå gott. Jag älskar spelkvällar och jag är så avundsjuk på Lisa för jag vill också ha ett eget hus att spela sällskapsspel i. Vi kan som inte vara värdar för sällskapsspelskvällar för vi bor så litet:( men en vacker dag så! 

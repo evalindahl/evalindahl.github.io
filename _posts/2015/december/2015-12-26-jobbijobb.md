@@ -6,7 +6,7 @@ title:  "Jobbijobb"
 date:   2015-12-26 07:53:54 +0100
 thumbnail-img: /assets/img/2015/december/8-3/2015-12-26-0747_567e380a2a6b22a3a68ed0d2.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Det har varit lite lugnt på bloggen se senaste veckorna men det har ju varit så mycket att stå i dessa veckor. Utlandsresa, jul och en massa jobb. Så fort jag har fått tid över så har jag bara velat andas ut. Men nu börjar julens stress vara över och jag kan nu äntligen börja uppdatera lite flitigare. Jag ska berätta lite mer om min jul och utlandsresan men det tar jag i särskilda i nlägg. 

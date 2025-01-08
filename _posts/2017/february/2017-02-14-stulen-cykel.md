@@ -6,7 +6,7 @@ title:  "Stulen cykel"
 date:   2017-02-14 12:49:34 +0100
 thumbnail-img: /assets/img/2017/february/8-3/image_58a2e9dc2a6b22b80d310591.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 I söndags när jag jobbat klart mitt nattskift och äntligen skulle få cykla hem och sova så inser jag att någon har snott min cykel. Den var låst och allt men jag hade it låst fast den i något fast föremål så någon har förmodligen bara lyft upp den på sin bil och tagit den med sig. Det kändes så sjukt surt och det jag var mest arg över där och då var  ju att jag skulle behöva gå hela vägen hem för att få sova vilket tar dubbelt så lång tid.

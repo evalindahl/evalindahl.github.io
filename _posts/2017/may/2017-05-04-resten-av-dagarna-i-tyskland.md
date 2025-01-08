@@ -6,7 +6,7 @@ title:  "Resten av dagarna i Tyskland"
 date:   2017-05-04 20:02:55 +0100
 thumbnail-img: /assets/img/2017/may/8-3/image_590b69d49606ee36f57a5b4d.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Vädret sprack faktiskt upp de sista dagarna i tyskland så vi hann faktiskt få njuta av solen mycket. Vi gick omkring och utforskade mycket, for på picknick, fikade, åt godmiddag i kvällssolen, for på museum, gick upp i klocktorn, drack oss lite fulla en kväll och lyssnade på go musik tillsammans och bara njöt av varandras sällskap. Den sista dagen så regnade det hela dagen tyvärr men det gjorde it så mycket för då fick vi chilla tillsammans och säga ett långsamt farväl. Vi sökte även en massa jobb åt Fredrik så nu är den processen igång, mer om detta i ett annat inlägg ^^ När det väl var dags för avsked i tisdags så kändes det inte som att vi skulle vara ifrån varandra så länge men när Fredrik gick ifrån mig till sin buss så slog det mig att han nu försvinner i fyra veckor till. Det är tur att jag har mycket att göra nu de kommande veckorna så tiden kommer nog gå fort:D

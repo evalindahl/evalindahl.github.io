@@ -6,7 +6,7 @@ title:  "Campingpics"
 date:   2013-07-11 23:36:56 +0100
 thumbnail-img: /assets/img/2013/july/6-3/img_8656_51df247fddf2b32f5792ee97.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 här kommer lite bilder från min och fredriks campingutflykt!

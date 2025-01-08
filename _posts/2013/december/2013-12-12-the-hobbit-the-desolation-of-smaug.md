@@ -6,7 +6,7 @@ title:  "The Hobbit-the desolation of Smaug"
 date:   2013-12-12 20:48:28 +0100
 thumbnail-img: /assets/img/2013/december/6-3/20131211_175355_52aa12ea2a6b22a363254ecc.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Efter min fina shoppingrunda med Lisa så for jag och Fredrik iväg till mormor för att hälsa på och även få en julklapp i förskott. Vi skulle nämligen få biobiljetter så vi tänkte att det var lika bra att vi fick dom nu när vi likaså skulle på bio. 

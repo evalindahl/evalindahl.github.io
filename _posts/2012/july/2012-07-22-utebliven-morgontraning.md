@@ -6,7 +6,7 @@ title:  "Utebliven morgonträning"
 date:   2012-07-22 14:34:08 +0100
 thumbnail-img: /assets/img/2012/july/2012/img_38011_207563463.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Även om jag tänkte vara så himla hurtig idag så blev det inte alls någon morgonträning för mig imorse. Lisa rinde och frågade om skjuts till havsbadet så jag skjutsade iväg henne dit istället. Kändes som bra att kunna vara till hjälp någon gång så det gjorde ingenting!

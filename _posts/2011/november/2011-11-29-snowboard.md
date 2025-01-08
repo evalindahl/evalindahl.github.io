@@ -6,7 +6,7 @@ title:  "Snowboard"
 date:   2011-11-29 17:24:45 +0100
 thumbnail-img: /assets/img/2011/november/2011/113694_0031_177055678.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Jag kommer ihåg när jag spenderade flera timmar vid backen som pappa så snällt hade pistat åt mig och min syrra mitt ute i skogen.

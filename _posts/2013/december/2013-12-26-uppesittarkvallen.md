@@ -6,7 +6,7 @@ title:  "uppesittarkvällen"
 date:   2013-12-26 21:34:58 +0100
 thumbnail-img: /assets/img/2013/december/6-3/img_1127_52bc92ce88e59d4694c23db9.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 När jag for till Risnabben för att vara med på uppesittarkvällen så tänkte jag att jag måste ta lite bilder så jag kommer att komma ihåg denna jul. Annars tar man ju alltid en massa bilder under julafton men jag kunde ju inte vara med då. Så jag tog lite bilder under kvällen som ni ska få del av idag!

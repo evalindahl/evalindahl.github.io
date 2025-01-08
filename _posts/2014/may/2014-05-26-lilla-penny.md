@@ -6,7 +6,7 @@ title:  "Lilla Penny"
 date:   2014-05-26 10:45:03 +0100
 thumbnail-img: /assets/img/2014/may/6-3/20140526_101101-1_5382f866e087c37fdda717e3.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Förlåt att jag it bloggat på några dagar men livet med en liten valp är ju lite tidskrävande. Men jag är så himla glad över att hon är här! 

@@ -6,7 +6,7 @@ title:  "fantastiskt"
 date:   2011-10-31 17:38:26 +0100
 thumbnail-img: /assets/img/2011/october/2011/dsc03373_172897799.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Helgen har varit alldeles otroligt bra alltså! Blev dock inget partajj på fredagen, men vad gör det när man hade den roligaste kvällen på länge på lördagen! Jag hade klätt ut mig till en så kallad " Olga" och prydde mitt ansikte med inte två utan ETT ögonbryn, najs ;)

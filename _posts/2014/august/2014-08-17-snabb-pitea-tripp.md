@@ -6,7 +6,7 @@ title:  "snabb piteå-tripp"
 date:   2014-08-17 20:44:54 +0100
 thumbnail-img: /assets/img/2014/august/6-3/img_20140816_160123_53f0f3ece087c342ff1b6af6.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Igår blev det en snabbtur till Piteå då jag och fredrik fick en impuls att vi ville fara på bio, och enligt oss finns det ingen bättre biosalong än bio3an. Så vi for kring 4 och då åt vi middag hos Frida med nästan alla hans syskon och respektive. Det var jättekul att få äta middag med dom och prata om allt möjligt. Penny var ju med och hon kunde it låta Silas(fridas 1.5 åring) vara. Hon tyckte han var jätterolig, och Silas tyckte hon var lika rolig. Hon stal hans leksaker som han hade i handen och han tyckte det var jättekul. Hon var försiktig när hon tog grejerna men jag kunde dock it slappna av helt för jag höll alltid ett öga på henne. Men det gick ju bra ändå:)) 

@@ -6,7 +6,7 @@ title:  "Shirataki nudlar"
 date:   2012-02-29 15:29:41 +0100
 thumbnail-img: /assets/img/2012/february/2012/images-2_191745130.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Kolhydrater har blivit ett hett samtalsämne kring många dieter och sägs vara en väldigt dålig huvudingridens kring måltiderna. Vilket jag förstår nu efter mammas förklaring hur kolhydrater förvandlas till socker i kroppen. Hon går efter den här LCHF dieten som verkar vara värsta mirakelkuren för mamma har gått ner massor med den(bra jobbat mamma!:D) och jag hade själv velat börja med den. Men tyvärr så har jag en svag plats i mitt hjärta för pasta och den feta maten blir rätt dyr i längden när man bor i lägenhet med liten inkomst så därför har jag inte kunnat börja med den. 

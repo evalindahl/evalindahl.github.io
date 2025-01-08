@@ -13,9 +13,8 @@ def fix_file(filepath):
 
         f = open(filepath, "w")
         for line in lines:
-            if (line.rstrip() == "tags: [blogg.se]"):
-                line = f"tags: [{year}]\n"
-                f.write("author: Eva\n")
+            if (line.rstrip() == f"tags: [{year}]"):
+                line = f'tags: ["{year}"]\n'
             f.write(line)
         f.close()
 

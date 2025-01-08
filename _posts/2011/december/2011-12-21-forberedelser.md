@@ -6,7 +6,7 @@ title:  "Förberedelser"
 date:   2011-12-21 14:09:29 +0100
 thumbnail-img: /assets/img/2011/december/2011/picture0408_180128094.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Som sagt så firar jag och Fredrik 1 årsdag idag. Så det ska vi fira med att göra godmat och se bio! Det blir den nya Sherlock Holmes, hoppas den är bra för Fredrik har sina förväntningar. Så han kommer om en stund till mig så ska vi fira. Det blir första gången jag firar 1 årsdag med någon så det är lite extra speciellt för mig hihi. 

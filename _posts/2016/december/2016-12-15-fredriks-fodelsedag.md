@@ -6,7 +6,7 @@ title:  "Fredriks födelsedag"
 date:   2016-12-15 19:09:00 +0100
 thumbnail-img: /assets/img/2016/december/8-3/image_5852aa5be087c321fb125cf7.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Idag är det min kära Fredriks födelsedag och det har vi firat! På morgonen när jag kom hem från jobbet så bar jag upp hans stora present, en ny cykel och väckte sedan honom med en fin födelsedagssång. Då fick han först öppna två små presenter och sen så fick han gå in till köket och öppna den stora presenten. Han blev väldigt glad över sina presenter vilket kändes kul för då har man ju lyckas hitta nåt som han velat ha. 

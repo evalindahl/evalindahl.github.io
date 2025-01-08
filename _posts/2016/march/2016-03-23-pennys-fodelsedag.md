@@ -6,7 +6,7 @@ title:  "Pennys födelsedag!"
 date:   2016-03-23 10:11:00 +0100
 thumbnail-img: /assets/img/2016/march/8-3/img_1992_56f2563c9606ee6e66cc555c.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Idag är det ingen vanlig dag för det är Pennys födelsedag! Det känns helt sjukt att det redan gått två år sen vi fick veta att Sally hade fött fram 8 små mirakel och ett utav dom var vårt. Tiden fram till hennes två-årsdag har varit hur rolig som helst samtidigt som denna tid har fått mig att gå omkring med prestationsångest och frustration. Jag är nöjd över vad jag har lärt henne hittils även om det finns områden som jag måste fortsätta jobba på. 

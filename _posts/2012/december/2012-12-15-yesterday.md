@@ -6,7 +6,7 @@ title:  "yesterday"
 date:   2012-12-15 14:53:44 +0100
 thumbnail-img: /assets/img/2012/december/2012/img_2987_50cc8075e087c3501c6bc4c9.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Fredagskvällen avnjöts med Lisa och Fredrik! Kvällen började med middag i form av tacos och o satan vad gott det var. Kände mig verkligen värd det efter den dagens två matteprov. Det kändes faktiskt rätt bra när jag gjorde proven så förhoppningsvis klarar jag dom. Huvudsaken är att jag slipper att plugga till nåt matteprov igen i minst en månad framöver. Sen efter lite prat och sånt så körde vi (lisa körde!!:D wiie)iväg till bersika och spelade spel vilket var jättekul :D riktigt bra fredag kan man ju säga.

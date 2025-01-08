@@ -6,7 +6,7 @@ title:  "Hundrastgården"
 date:   2015-06-18 19:49:06 +0100
 thumbnail-img: /assets/img/2015/june/8-3/temporary-image1434547658858_558175cc9606ee7287dbfa80.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Igår när jag for hem från jobbet så såg jag till min förvånan att det faktiskt var hundar i hundrastgården. Så jag cyklade fort hem och gick dit med Penny. " Får vi också va med?" frågade jag och "JEOW" svarade matte och hussarna där i hundrastgården. Så jag släppte in Penny till alla skällande små hundar och i början var Penny lite överväldigad och gick med svansen mellan benen medan alla hundar skulle inspektera henne. Men efter en kort stund så var svansen där den ska vara och  Penny busade på hur mycket som helst med de andra hundarna. Hon busade särskilt mycket med en 6-månaders schäferhane, de jagade varandra runt rastgården flera gånger. 

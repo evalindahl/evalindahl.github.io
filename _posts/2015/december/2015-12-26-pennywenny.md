@@ -6,7 +6,7 @@ title:  "Pennywenny"
 date:   2015-12-26 19:26:53 +0100
 thumbnail-img: /assets/img/2015/december/8-3/ae_567edb21ddf2b3566d78ae47.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Här har ni lite bilder som jag tog på lilla pennsan för några veckor sen!:D

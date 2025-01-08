@@ -6,7 +6,7 @@ title:  "let's do this"
 date:   2015-05-05 09:49:12 +0100
 thumbnail-img: /assets/img/2015/may/8-3/42_554871faddf2b3496a4ed440.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Eftersom jag tydligen har väldigt svårt att gå ner i vikt med hjälp av min egen kunskap och disciplin så har jag nu laddat ner ett tränings- och kostschema som jag ska följa strikt i 8 veckor. Schemat är utformat av en personlig tränare så det är upplagt för att förlora fett och behålla muskelmassa. Det känns betydligt lättare för mig att följa ett färdigt och utformat matschema istället för att bara "äta mindre-träna mer" för det har visat sig vara väldigt svårt. Jag har liksom fikat och ätit godis minst en dag i veckan och ätit feta baguetter på jobbet och intalat mig själv att jag har ätit bra. Nu har jag ett schema där alla måltider under veckan är förutbestämda och då finns det inte uttrymme för att äta nåt annat än det som står på schemat. Jag behöver ha strikta riktlinjer för att lyckas känner jag. 

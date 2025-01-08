@@ -6,7 +6,7 @@ title:  "Endast de svaga ger upp"
 date:   2013-01-20 23:20:00 +0100
 thumbnail-img: /assets/img/2013/january/2013/evacykla_50fc6d63ddf2b30b7aaf9c59.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Hade ju tänkt gå på promenader i Risnabben men det blev inte så mycket sånt när man höll på och jobbade i Annikas hus och så där. För att ta igen lite förlorad träningstid så cyklade jag i 50 minuter och efter det så blev det lite magövningar. När jag satt där och cyklade så cyklade jag ungefär i 

@@ -6,7 +6,7 @@ title:  "Kom sommar"
 date:   2013-04-23 15:42:45 +0100
 thumbnail-img: /assets/img/2013/april/6-3/dsc04869_51768f089606ee3f47a80059.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Nu när man börjar se små, sköra grästrån börja växa igen på marken så känner man att det pirrar lite i magen. Sommaren är snart hääääär!!! Åh så underbart! Det är ju så himla mycket som händer när sommaren börjar, där kring slutet av maj./ början av juni. Studentveckan, balen, studenten, börjar jobba på coop och mycket mer. Det känns så himla spännade med sommar och alla äventyr som innebär med det. Jag hade en sån himla fin sommar förra året och jag tror att jag kommer ha en minst lika fin det här året.

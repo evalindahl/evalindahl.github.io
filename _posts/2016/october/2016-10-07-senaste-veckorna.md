@@ -6,7 +6,7 @@ title:  "senaste veckorna"
 date:   2016-10-07 20:40:48 +0100
 thumbnail-img: /assets/img/2016/october/8-3/image_57f7e3fb88e59d8ff3d644ff.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Jag har varit så himla lat senaste tiden så jag har it ens orkat blogga nåt. Men jag tänkte att jag kunde dela av mig av de få bilder jag har tagit och berätta lite om vissa saker jag har gjort.

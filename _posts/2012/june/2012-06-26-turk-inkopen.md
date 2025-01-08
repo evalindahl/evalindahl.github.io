@@ -6,7 +6,7 @@ title:  "Turk-inköpen"
 date:   2012-06-26 22:01:16 +0100
 thumbnail-img: /assets/img/2012/june/2012/pic_207289206.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Shoppingen som jag gjorde i Turkiet var inte särskilt enorm. Men jag fick ändå med mig lite godsaker! Armband i läder, converse i läder, ett par strandskor och två onepieces(en till

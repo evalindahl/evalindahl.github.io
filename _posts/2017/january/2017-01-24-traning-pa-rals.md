@@ -6,7 +6,7 @@ title:  "Träning på räls"
 date:   2017-01-24 20:04:56 +0100
 thumbnail-img: /assets/img/2017/january/8-3/image_58879e8c9606ee491c3b524f.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Just nu går träningspassen som på räls! Det känns naturligt att fara till gymmet och det känns oftast bara kul att få röra på kroppen. Vissa dagar har jag dock fått en snabb tanke om att åh vad skönt det hade varit att bara skippa gymmet och stanna hemma istället men då tänker jag direkt efteråt att träningen tar bara EN timma, det är ingenting och det ger en 100gånger mer tillfredställelse än en timma mer hemma framför datorn. 

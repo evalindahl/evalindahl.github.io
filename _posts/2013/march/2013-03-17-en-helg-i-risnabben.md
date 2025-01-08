@@ -6,7 +6,7 @@ title:  "En helg i Risnabben"
 date:   2013-03-17 22:42:10 +0100
 thumbnail-img: /assets/img/2013/march/6-3/aastor_5146386addf2b3367426fb75.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Helgen spenderades i Risnabben med många av mina nära och kära. Vi har badat, grillat, solat, myst, skrattat,pratat, druckit kaffe, ätit gott och ja allt möjligt. Det var riktigt härligt väder på lördagen så då hann man få i sig lite D-vitamin och även känna värmen i ansiktet. Det känns som att det var på låtsas även om det var på riktigt att solen faktiskt värmde.. Den brände till och med lite i ansiktet..mysig känsla det där. Det tar mig tillbaka till soliga sommardagar och heta soltimmar utomlands. Nu är jag faktiskt lite sugen på våren och sommaren!

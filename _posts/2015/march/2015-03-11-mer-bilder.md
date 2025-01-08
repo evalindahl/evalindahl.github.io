@@ -6,7 +6,7 @@ title:  "mer bilder"
 date:   2015-03-11 19:16:00 +0100
 thumbnail-img: /assets/img/2015/march/8-3/img_4415_54ff374ae087c31ae29460c3.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
  

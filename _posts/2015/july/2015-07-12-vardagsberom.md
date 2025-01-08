@@ -6,7 +6,7 @@ title:  "vardagsberöm"
 date:   2015-07-12 21:49:16 +0100
 thumbnail-img: /assets/img/2015/july/8-3/temporary-image1436727230776_55a2b7c0ddf2b37c28415484.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 För nån dag sen på min kvällspromenad så powerwalkade en kvinna förbi och hon sa "Gud vad fint din hund går i koppel, hon går ju vid din sida hela tiden". Då fylldes mitt hjärta med stolthet och jag sa " åh tack så mycket, men du ska veta hur mycket jag kämpat för att få henne att göra det." 

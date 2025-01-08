@@ -6,7 +6,7 @@ title:  "ommöblering"
 date:   2016-12-07 17:37:29 +0100
 thumbnail-img: /assets/img/2016/december/8-3/image_57c970a09606ee2c551131bb.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Fredrik blev inte nöjd över vår möblering i kontoret eftersom han inte kan se ut genom fönstret vilket är väldigt viktigt för honom. Så efter flera timmars planerande så kom vi fram till lösningen på "efter"bilderna och det känns väldigt bra. Tänk vad lite fönsterutsikt kan göra! Dessutom kändes det som att man fick mer space nu när vi satte in ett extra bord vilket gav oss en meter extra bordsyta. 

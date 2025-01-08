@@ -6,7 +6,7 @@ title:  "utställningsträning"
 date:   2016-01-18 15:11:50 +0100
 thumbnail-img: /assets/img/2016/january/8-3/new_image_569ceeef2a6b223772c1df81.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Tyvärr så jobbar jag ikväll men hade jag inte gjort det så hade jag varit iväg på utställningsträning med Pennsan! Varje måndag så annordnar en förening en utställningsträning mitt i stan där man får träna ställa hunden och vänja den vid domare och så där. Eftersom jag jobbar idag så kommer jag fara dit nästa måndag istället. Det känns ju perfekt att kunna träna Penny på att acceptera att domaren klämmer och känner utan utställnings-atmosfären runt om henne. Då blir det ju som en liten mjukstart:D 

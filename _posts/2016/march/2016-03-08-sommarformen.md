@@ -6,7 +6,7 @@ title:  "sommarformen"
 date:   2016-03-08 14:00:40 +0100
 thumbnail-img: /assets/img/2016/march/8-3/img_20150522_1329292_56deca9eddf2b363c333cc1c.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

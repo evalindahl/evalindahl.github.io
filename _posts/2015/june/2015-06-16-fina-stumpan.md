@@ -6,7 +6,7 @@ title:  "Fina stumpan"
 date:   2015-06-16 19:10:20 +0100
 thumbnail-img: /assets/img/2015/june/8-3/temporary-image1434472991048_558052219606ee58a15f3e61.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Idag var jag på lite upptäckspromenad med lilla stumpan så både jag och hon skulle få stimuleras lite. Vi är ju oftast i skogen på promenader så idag for vi till stan istället för att hon skulle få nya lukter att lukta på. Väl på stan så träffade jag en kollega som jag surrade på med vilket var kul. 

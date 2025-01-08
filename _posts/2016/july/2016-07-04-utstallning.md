@@ -6,7 +6,7 @@ title:  "utställning"
 date:   2016-07-04 14:53:32 +0100
 thumbnail-img: /assets/img/2016/july/8-3/2016-05-31-0829_574d2f452a6b225104d87fd2.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

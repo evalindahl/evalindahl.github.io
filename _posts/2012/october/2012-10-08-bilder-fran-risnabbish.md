@@ -6,7 +6,7 @@ title:  "Bilder från risnabbish"
 date:   2012-10-08 15:29:22 +0100
 thumbnail-img: /assets/img/2012/october/2012/img_0710_5072d481ddf2b34f4d000256.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Här har vi lite bilder som tagits i helgen!

@@ -6,7 +6,7 @@ title:  "Lite studentbilder"
 date:   2013-06-11 15:41:24 +0100
 thumbnail-img: /assets/img/2013/june/6-3/aaaaaah_51b723de9606ee69be981e72.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Jag laddade som sagt över 850 bilder från studenten så det blev en rolig sysselsättning att sedan rensa bort alla bilder som såg exakt likadana ut. Nu har jag iallafall fått ned antalet till 300 bilder så nu har jag ett mer humant antal.

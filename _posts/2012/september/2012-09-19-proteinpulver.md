@@ -6,7 +6,7 @@ title:  "Proteinpulver"
 date:   2012-09-19 20:32:43 +0100
 thumbnail-img: /assets/img/2012/september/2012/img_0138_505a0f329606ee778e8406c8.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Eftersom jag inte får i mig tillräckligt med protein under dagarna så har jag köpt proteinpulver som jag ska blanda med mjölk och blåbär. Kommer äta det som mellanmål eller direkt efter träningen. Det kostade mig 279 kr och även om jag egentligen inte har råd med det så kommer det vara värt varenda krona om det hjälper mig med viktnedgången!:) 

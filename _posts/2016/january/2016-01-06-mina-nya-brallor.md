@@ -6,7 +6,7 @@ title:  "mina nya brallor"
 date:   2016-01-06 19:04:09 +0100
 thumbnail-img: /assets/img/2016/january/8-3/2016-01-06-1859_568d55e39606ee543520dc4f.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

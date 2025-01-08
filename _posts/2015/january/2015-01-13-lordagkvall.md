@@ -6,7 +6,7 @@ title:  "Lördagkväll"
 date:   2015-01-13 12:42:49 +0100
 thumbnail-img: /assets/img/2015/january/8-3/img_4076_54b50034ddf2b36b9de59383.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 På lördagskvällen så spelade jag, Lisa och Elin Risk hemma hos Elin. Det var jättekul att få umgås med mina bästa pinglor och spela ett roligt spel. Det kommer ju bli ett tag till nästa gång vi är samlade då Elin snart ska flytta till Stockholm den korven. Så jag ska passa på att umgås så mycket som möjligt med henne innan hon far :)

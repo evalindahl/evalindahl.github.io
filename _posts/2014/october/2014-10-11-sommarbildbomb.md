@@ -6,7 +6,7 @@ title:  "Sommarbildbomb"
 date:   2014-10-11 09:33:04 +0100
 thumbnail-img: /assets/img/2014/october/6-3/img_1657_5438d6cf2a6b228da30b7592.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 När man får se bilder på 7cm snö i Risnabben så känns det som att sommaren verkligen är över. Därför tänkte jag istället visa er en bildbomb från denna sommar som jag har tyckt varit jättebra!! Nu när jag tittar igenom mina sommarbilder så ser jag ju att jag har hittat på massor med roligt i sommar som jag kommer minnas länge. Så här får ni en massa bilder från i sommar som kanske värmer upp era kroppar lite nu när det närmar sig minusgrader. Jag blev då helt varm i hjärtat av att titta på dessa bilder:D

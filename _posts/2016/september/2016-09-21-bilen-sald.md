@@ -6,7 +6,7 @@ title:  "bilen såld"
 date:   2016-09-21 22:47:23 +0100
 thumbnail-img: /assets/img/2016/september/8-3/image_57dbf6e8ddf2b368f4fbae45.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
  

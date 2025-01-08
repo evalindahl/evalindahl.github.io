@@ -6,7 +6,7 @@ title:  "Bildbomb från UMEÅÅ!"
 date:   2011-10-13 19:16:29 +0100
 thumbnail-img: /assets/img/2011/october/2011/dsc03344_170369692.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 

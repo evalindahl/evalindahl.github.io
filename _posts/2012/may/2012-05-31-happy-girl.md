@@ -6,7 +6,7 @@ title:  "Happy girl"
 date:   2012-05-31 22:29:11 +0100
 thumbnail-img: /assets/img/2012/may/2012/pic_204841951.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Wiie nu har jag pluggat allt som ska göras imorgon! efter imorgon så har jag sommarlov, aaaahh!! Så himla underbart! Och att inleda det med en utlandsresa gör inte saken sämre ;) 

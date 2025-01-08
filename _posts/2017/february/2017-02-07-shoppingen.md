@@ -6,7 +6,7 @@ title:  "Shoppingen"
 date:   2017-02-07 21:36:24 +0100
 thumbnail-img: /assets/img/2017/february/8-3/image_589a26212a6b22b8094be60f.jpg
 author: Eva
-tags: [2017]
+tags: ["2017"]
 ---
 
 Shopping dagen i Umeå var riktigt rolig även om det kanske it gick så mycket pengar. Tror jag shoppade för kanske en tusenlapp totalt heheee :D vi for först in på gallerian uti Ikea,  köpte ett par skor där, sen blev det lunch på Ikea och lite shopping där jag hittade lite smått och gott till lägenheten,bland annat en ny blomma och mer glasmatlådor för jag försöker ersätta alla våra plastisar.  Sen for vi in till city i Umeå och for in på bland annat new  yorker som jag hört gott om och jag blev inte besviken. De hade mycket fina kläder där och jag gillade stilen som de hade. Efter besöket på new yorker så bestämde vi oss för att börja köra hemåt då det var en liten bit att köra. Jag var väldigt nöjd över dagen för det var kul att få prata om allt möjligt med mina familjemedlemmar samtidigt som vi shoppade fina saker. 

@@ -6,7 +6,7 @@ title:  "Schöne låte"
 date:   2012-01-09 21:05:48 +0100
 thumbnail-img: 
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 

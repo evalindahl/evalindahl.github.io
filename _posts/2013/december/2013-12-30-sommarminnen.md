@@ -6,7 +6,7 @@ title:  "Sommarminnen"
 date:   2013-12-30 12:54:00 +0100
 thumbnail-img: /assets/img/2013/december/6-3/img_8749_52c07dc82a6b22291bd18dc7.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 När jag skulle lägga upp bilderna från hemavan så kom jag även över bilder från i sommar. Det gjorde lite ont i hjärtat att titta på dom för då börjar jag längta så efter sommaren. Om Skellefteå faktiskt kunde bjuda på lite vinter hade jag inte längtat till sommaren lika mycket, men denna stad vill bara bjuda på is och fruset gräs. 

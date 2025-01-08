@@ -6,7 +6,7 @@ title:  "Min shopping"
 date:   2014-05-21 15:54:33 +0100
 thumbnail-img: /assets/img/2014/may/6-3/aa_537cacd12a6b22b58668b531.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Nu har jag varit superduktig och tagit outfitbilder på nästan allt jag köpte i Stockholm, vet ni! Så titta och njuuut:D

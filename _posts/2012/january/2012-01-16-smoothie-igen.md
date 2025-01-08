@@ -6,7 +6,7 @@ title:  "Smoothie, igen"
 date:   2012-01-16 20:53:26 +0100
 thumbnail-img: /assets/img/2012/january/2012/pic_184781414.jpg
 author: Eva
-tags: [2012]
+tags: ["2012"]
 ---
 
 Har precis mixat ihop en smoothie som jag nu ska äta medan jag gör ett hemprov. Den här gången la jag i mer blåbär så nu smakade den mer, och fick en finare lila-färg ;) 

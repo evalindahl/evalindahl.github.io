@@ -6,7 +6,7 @@ title:  "Spelkväll"
 date:   2013-01-10 23:02:28 +0100
 thumbnail-img: /assets/img/2013/january/2013/p1100006_50ef3a40ddf2b31c0e68238c.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Ja ikväll så for jag iväg till Elin för att spela spel med henne, Lisa, Elin, Backman,Elina och Sofia! Det var jättekul för alla är så trevliga och ingen är dåliga förlorare tack och lov ;) Vi spelade nåt tågspel och helt överrens, eller absolut överrens..ja vad det nu hette och båda spelen var riktigt spännande. Efter spelandet så gick vi tjejer iväg till max för prat och hallonpaj, mums! En alldeles perfekt kväll med roliga människor. Bakade även lite planer för lördag vilket lutar mot en heldag i Kåbdalis, najs:D

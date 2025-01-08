@@ -6,7 +6,7 @@ title:  "syskonträff"
 date:   2015-02-24 21:41:40 +0100
 thumbnail-img: /assets/img/2015/february/8-3/img_20150224_122725_54ecdc632a6b22915c4c4321.jpg
 author: Eva
-tags: [2015]
+tags: ["2015"]
 ---
 
 Både jag och Penny var helt slut efter dagens långpromenad med Mickan och Pennys syskon Nash. Vi gick ungefär 5 km med hundarna och sen drack vi kaffe hemma hos hennes föräldrar. Det var så himla kul att se likheter och skillnader mellan Penny och Nash. För det första så ser Penny ut som en liten valp i jämförelse med honom för han är säkert 10 cm större än henne. Men de var båda lika busiga och de hade otroligt roligt ihop när de lekte med varandra. Han verkar vara lika tillgiven som Penny är men Penny har bättre kontakt med mig som ägare. 

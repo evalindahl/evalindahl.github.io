@@ -6,7 +6,7 @@ title:  "Turn back tuesday"
 date:   2016-12-20 07:51:49 +0100
 thumbnail-img: /assets/img/2016/december/8-3/jag_5858d3172a6b229d0229b3d0.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Jag har ju tagit tusen och åter tusentals bilder genom åren och det finns ju då en hel del egopics. Här har jag hittat en del från när jag gick i 8-an/9-an och jag som inte tyckte att jag var fjortis...heheeee ja..x)

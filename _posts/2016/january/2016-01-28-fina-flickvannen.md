@@ -6,7 +6,7 @@ title:  "fina flickvännen"
 date:   2016-01-28 17:51:00 +0100
 thumbnail-img: /assets/img/2016/january/8-3/f72_-_win_20150423_214154_56aa446be087c32ee20116f1.jpg
 author: Eva
-tags: [2016]
+tags: ["2016"]
 ---
 
 Eftersom jag har en hel del bilder som jag har tagit så blir jag lite less på att se på mina egna bilder. Då är det ju perfekt att jag har en pojkvän som är duktig på att ta bilder han med. När jag gick igenom bilderna så insåg jag att jag är så himla charmig, här nedan följer en del exempel på hur charmig jag är ;)

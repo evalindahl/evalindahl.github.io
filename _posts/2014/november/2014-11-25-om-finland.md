@@ -6,7 +6,7 @@ title:  "om finland"
 date:   2014-11-25 21:26:00 +0100
 thumbnail-img: /assets/img/2014/november/6-3/img_20141119_125828_5474e34d2a6b22a679405410.jpg
 author: Eva
-tags: [2014]
+tags: ["2014"]
 ---
 
 Jag varit sämst på att blogga de senaste dagarna men nu tänkte jag äntligen ta tag i detta. 

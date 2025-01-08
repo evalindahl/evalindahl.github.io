@@ -6,7 +6,7 @@ title:  "julstämning"
 date:   2013-11-21 21:55:06 +0100
 thumbnail-img: /assets/img/2013/november/6-3/20131121_185739_528e72ec88e59d247f7c4ca3.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Nu har jag tagit mig ur sängen och gjort nåt mer vettigt av denna dag, nämligen varit på kör! Det var väldigt roligt att få träffa körmänniskorna och jag hann prata med några av dom om tandställning,  och de sa att det är värt smärtan.  Så det känns ändå bra att få höra det. 

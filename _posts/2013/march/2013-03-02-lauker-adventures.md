@@ -6,7 +6,7 @@ title:  "Lauker adventures"
 date:   2013-03-02 16:22:54 +0100
 thumbnail-img: /assets/img/2013/march/6-3/p1000044_51321870ddf2b36655e941ae.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Dagarna i Lauker var alldeles underbara! Vi kom dit på onsdagmorgon och gjorde oss hemmastadda med lite bäddning och sådant där i den fina stugan. Det är Elins familjs stuga som de har haft i typ 10 år och nu fick vi äran att få vistas där. Vi for ut med skoter till en grillplats i närheten och käkade lunch där båda dagarna. Vi åkte stjärtlapp och madrass nerför en liten backe och det visade sig vara jättekul:D När vi var inne i stugan så blev det mycket sällskapsspel och kortspel och det var så roligt så!  De har bastu och allt där så vi tog tillfället i akt och bastade på den sista dagen. Summan av kardemumman var att det var en riktigt rolig "weekend" som kommer att minnas i år framöver :D

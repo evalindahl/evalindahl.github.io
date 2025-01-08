@@ -6,7 +6,7 @@ title:  "Bollespel"
 date:   2013-05-22 22:36:00 +0100
 thumbnail-img: /assets/img/2013/may/6-3/img_6430_519d2b5be087c3426661c725.jpg
 author: Eva
-tags: [2013]
+tags: ["2013"]
 ---
 
 Ikväll så har jag varit iväg på en riktigt somrig aktivitet, nämligen volleyboll. Det var roligt att spela men det var bara synd att man inte riktigt fick igång så bra spel. Hade vi försökt lite längre så hade vi säkert fått igång det, men vi valde att spela liteboll istället. Det blev ett klassiskt "Rövdunk" spel som spelades tills kvällen var över. Det kändes väldigt somrigt att bara vara ett gäng människor och spela boll så det var väldigt härligt:D

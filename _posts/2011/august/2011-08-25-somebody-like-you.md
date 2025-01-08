@@ -6,7 +6,7 @@ title:  "Somebody like you"
 date:   2011-08-25 19:03:32 +0100
 thumbnail-img: /assets/img/2011/august/08/pall-med-pengar.jpg
 author: Eva
-tags: [2011]
+tags: ["2011"]
 ---
 
 Rapporterar direkt från Bergsviken när jag säger att lönen har kommit in idag!
