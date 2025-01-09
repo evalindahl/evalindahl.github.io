@@ -99,8 +99,10 @@ footer-hover-col: "#0085A1"
 
 language: "sv"
 
+date_locale: sv
+
 # Ruby Date Format to show dates of posts
-date_format: "%-d %B %Y"
+date_format: "%-d %B, %Y"
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Stockholm"
