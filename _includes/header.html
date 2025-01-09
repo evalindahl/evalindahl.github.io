@@ -37,11 +37,11 @@
             {% if page.author %}
               Skrivet av <strong>{{ page.author | strip_html }}</strong><br>
             {% endif%}
-            <span class="post-meta">Publicerat {{ page.date | date: date_format }}</span>
+            <span class="post-meta">Publicerat {{ page.date | localize: '%-d %B %Y' }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
                 <span class="d-none d-md-inline middot">&middot;</span>
-                Last updated {{ page.last-updated | date: date_format }}
+                Last updated {{ page.last-updated | localize: '%-d %B %Y' }}
               </span>
             {% endif %}
             {% if page.readtime %}

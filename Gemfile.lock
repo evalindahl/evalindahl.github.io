@@ -30,6 +30,7 @@ GEM
     ffi (1.17.1-arm-linux-gnu)
     ffi (1.17.1-arm-linux-musl)
     ffi (1.17.1-arm64-darwin)
+    ffi (1.17.1-x64-mingw-ucrt)
     ffi (1.17.1-x86-linux-gnu)
     ffi (1.17.1-x86-linux-musl)
     ffi (1.17.1-x86_64-darwin)
@@ -39,6 +40,7 @@ GEM
     google-protobuf (3.25.5)
     google-protobuf (3.25.5-aarch64-linux)
     google-protobuf (3.25.5-arm64-darwin)
+    google-protobuf (3.25.5-x64-mingw-ucrt)
     google-protobuf (3.25.5-x86-linux)
     google-protobuf (3.25.5-x86_64-darwin)
     google-protobuf (3.25.5-x86_64-linux)
@@ -61,6 +63,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-date-localization (0.0.8)
+      i18n (~> 1.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
@@ -109,6 +113,8 @@ GEM
       google-protobuf (>= 3.25, < 5.0)
     sass-embedded (1.77.0-riscv64-linux-musl)
       google-protobuf (>= 3.25, < 5.0)
+    sass-embedded (1.77.0-x64-mingw-ucrt)
+      google-protobuf (>= 3.25, < 5.0)
     sass-embedded (1.77.0-x86-cygwin)
       google-protobuf (>= 3.25, < 5.0)
     sass-embedded (1.77.0-x86-linux-android)
@@ -154,6 +160,7 @@ PLATFORMS
   riscv64-linux-android
   riscv64-linux-gnu
   riscv64-linux-musl
+  x64-mingw-ucrt
   x86-cygwin
   x86-linux
   x86-linux-android
@@ -170,6 +177,7 @@ DEPENDENCIES
   appraisal (~> 2.5)
   beautiful-jekyll-theme!
   bundler (>= 1.16)
+  jekyll-date-localization
   rake (~> 12.0)
   tzinfo-data
 
