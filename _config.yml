@@ -99,7 +99,7 @@ footer-hover-col: "#0085A1"
 
 language: "sv"
 
-date_locale: sv
+#date_locale: sv
 
 # Ruby Date Format to show dates of posts
 date_format: "%-d %B, %Y"
