@@ -27,7 +27,7 @@ title: 'Arkiv'
             <div class="tag-entry">
                 <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
                 <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | localize: '%-d %B %Y' -}}</time>
+                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
                 </div>
             </div>
         {%- endfor -%}
