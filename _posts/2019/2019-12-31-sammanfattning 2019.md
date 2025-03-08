@@ -2,11 +2,11 @@
 layout: post
 sitemap: false
 
-title:  "Ny blogg!"
-date:   2025-01-07 18:42:00 +0100
-cover-img: /assets/img/eva-portrait.jpg
-thumbnail-img: /assets/img/eva-icon.jpg
-tags: ["2025"]
+title:  "Sammanfattning 2019"
+date:   2019-12-31 18:42:00 +0100
+cover-img: /assets/img/2019/IMG_20190213_093517.jpg
+thumbnail-img: /assets/img/2019/IMG_20190213_093517.jpg
+tags: ["2019"]
 author: Eva
 ---
 
