@@ -4,8 +4,8 @@ sitemap: false
 
 title:  "Sammanfattning 2020"
 date:   2020-12-31 18:42:00 +0100
-cover-img: /assets/img/eva-portrait.jpg
-thumbnail-img: /assets/img/eva-icon.jpg
+cover-img: /assets/img/2020/IMG_20200701_194655.jpg
+thumbnail-img: /assets/img/2020/IMG_20200701_194655.jpg
 tags: ["2020"]
 author: Eva
 ---
@@ -53,6 +53,7 @@ Blev fin i håret hos Lisa :D
 ![](/assets/img/2020/IMG_20200427_154649.jpg)
 
 Coronapandemin bröt ut under våren vilket påverkade samhället enormt. Jag och Fredrik såg framför oss hus bostadsmarknaden skulle krasha och pratade då om att sälja vårat hus, då vi var så less på att renovera och i och med hur mycket dolda problem vi hittade i vårt hus så hade vi många renoveringar framför oss i det huset. Fredrik hade sitt jobb i Skellefteå och spenderade mycket tid på att pendla så ett boende närmare centrum hade sparat tid, jag hade fått veta att vi kanske behövde stänga nattskiftet på mitt jobb vilket skulle innebära att jag blir arbetslös och vi trivdes inte i huset på grund av planlösningen, storleken, den lilla tomten och stora spindlar överallt. Så vi bestämde oss för att sälja huset och gjorde det via facebook då vi ville slippa så mycket mäklarkostnader och få en snabb och smidig affär. Vi fick det vi ville ha så vi blev nöjda. Med facit i hand skulle vi väntat ett halvår då vi kunnat få minst 600.000 mer i försäljningen men det visste vi ju inte då. 
+
 ![](/assets/img/2020/IMG_20200504_102251.jpg)
 ![](/assets/img/2020/IMG_20200504_103731.jpg)
 ![](/assets/img/2020/IMG_20200504_105724.jpg)
@@ -84,7 +85,8 @@ Vi fick lägenheten vi ville ha och vi fick nycklarna två månader innan vi sku
 ![](/assets/img/2020/IMG_20200701_174800.jpg)
 ![](/assets/img/2020/IMG_20200701_194655.jpg)
 
-Vi spelade mycket discgolf med Elin och Sebbe och våra barn i barnvagnar. Det var jättekul :D 
+Vi spelade mycket discgolf med Elin och Sebbe och våra barn i barnvagnar. Det var jättekul :D
+
 ![](/assets/img/2020/IMG_20200707_195912.jpg)
 
 Vi var och lekte i badhusparken och Ellen var väldigt faschinerad av de andra barnen.Det var så konstig tid under pandemin då man skulle ha minst 2 meters avstånd till alla så när Ellen ville gå fram och leka med ett annat barn så var jag så osäker om det var socialt accepterat liksom, men tänkte att hennes sociala färdigheter måste ju få utvecklas ändå. Det var en tråkig tid då vi inte fick hälsa på folk i någon större utsträckning så det blev mycket utflykter ute istället. 
@@ -111,11 +113,14 @@ Vi spelade mycket discgolf, denna gång fick Cita följa med.
 ![](/assets/img/2020/IMG_20200815_093142.jpg)
 
 
-Ellen började förskolan och inskolningen gick jättebra. Kändes helt sjukt att hon helt plötsligt ska lyssna på andra vuxna, träffa andra barn och vara med om massa saker som vi inte kommer vara med på. Men men det är ju som det är. 
+Ellen började förskolan och inskolningen gick jättebra. Kändes helt sjukt att hon helt plötsligt ska lyssna på andra vuxna, träffa andra barn och vara med om massa saker som vi inte kommer vara med på. Men men det är ju som det är.
+
 ![](/assets/img/2020/IMG_20200818_083901.jpg)
 
 
-Nattskiftet på Circle K stängde på grund av pandemin så därför blev jag arbetslös mer eller mindre, jag fick jobba extra om jag ville. Under våren hade jag insett att jag måste hitta något bättre jobb som passar mig och som har bra arbetstider. Därför undersökte jag lite olika utbildningar, träffade en SYV på Komvux. Funderade mellan socionom eller studie-och yrkesvägledare men insåg att socionom lätt kan bli så deppigt och mörkt, jag ville hellre jobba med något mer positivt/lätt så jag bestämde mig för att söka till SYV-utbildningen på distans via Umeå och fick först ett negativt antagningsbesked då mitt meritvärde inte räckte men två veckor senare var det någon som hoppat av och jag tog mig in som reserv. Kändes jättespännande att börja plugga. Upplägget var att ses via teams och fara på träffar i umeå var tredje vecka, men tack vare pandemin så var allt digitalt via video och jag for inte till Umeå förrän nästan 2 år in på utbildningen. Det som dock var jobbigt var att Ellen såklart var förkyld jämt, som förskolebarn är, och eftersom förskolan var hårda med att man inte fick snora eller hosta pga pandemin så fick hon vara hemma från förskolan väldigt mycket. Men mitt plugg kunde ju inte pausas bara för att hon var förkyld, så mycket av mitt pluggande skedde med henne hemma. Är stolt att jag klarade det så bra trots att jag hade henne hemma nästan hela tiden. 
+Nattskiftet på Circle K stängde på grund av pandemin så därför blev jag arbetslös mer eller mindre, jag fick jobba extra om jag ville. Under våren hade jag insett att jag måste hitta något bättre jobb som passar mig och som har bra arbetstider. Därför undersökte jag lite olika utbildningar, träffade en SYV på Komvux. Funderade mellan socionom eller studie-och yrkesvägledare men insåg att socionom lätt kan bli så deppigt och mörkt, jag ville hellre jobba med något mer positivt/lätt så jag bestämde mig för att söka till SYV-utbildningen på distans via Umeå och fick först ett negativt antagningsbesked då mitt meritvärde inte räckte men två veckor senare var det någon som hoppat av och jag tog mig in som reserv.
+
+Det kändes jättespännande att börja plugga! Upplägget var att ses via teams och fara på träffar i umeå var tredje vecka, men tack vare pandemin så var allt digitalt via video och jag for inte till Umeå förrän nästan 2 år in på utbildningen. Det som dock var jobbigt var att Ellen såklart var förkyld jämt, som förskolebarn är, och eftersom förskolan var hårda med att man inte fick snora eller hosta pga pandemin så fick hon vara hemma från förskolan väldigt mycket. Men mitt plugg kunde ju inte pausas bara för att hon var förkyld, så mycket av mitt pluggande skedde med henne hemma. Är stolt att jag klarade det så bra trots att jag hade henne hemma nästan hela tiden. 
 
 ![](/assets/img/2020/IMG_20200910_091706.jpg)
 
@@ -128,6 +133,7 @@ Tjejmiddag på Pinchos med Ellen, mamma, Annika, Hilda och Lilly.
 ![](/assets/img/2020/IMG_20201028_170354.jpg)
 
 Besök av Elin, Sebbe, Helge och Verner.
+
 ![](/assets/img/2020/IMG_20201030_141520.jpg)
 ![](/assets/img/2020/IMG_20201030_141610.jpg)
 
